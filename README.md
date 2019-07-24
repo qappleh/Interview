@@ -36,6 +36,11 @@ var a = {
     }  
 ```
 解析：==比较的时候类型不一样会转换类型，Object类型会调用toString，array调用join，number调用valueOf，因此三种方式都可以实现，上面的答案为重写Object的toString的方式。
+
+2019-07-24：  
+
+请使用原型链相关知识实现b继承n=1;c继承n=2;m=3
+
 推荐web程序员必备微信号 
 ▼
 
