@@ -53,6 +53,15 @@ obj.prototype = {
 var c = new obj();
 console.log(b.n,b.m,c.n,c.m)
 ```
+
+2019-07-25
+以下代码输出什么？
+```
+var a = 1 < 2 < 1 < 1 ? 3 ： 4；
+var b = 3 < 2 < 1 < 1 ? 2 : 1;
+console.log(a);
+console.log(b);
+```
 推荐web程序员必备微信号 
 ▼
 
