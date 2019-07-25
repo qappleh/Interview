@@ -52,7 +52,6 @@ obj.prototype = {
 }
 var c = new obj();
 console.log(b.n,b.m,c.n,c.m)
-
 ```
 推荐web程序员必备微信号 
 ▼
