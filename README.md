@@ -41,6 +41,19 @@ var a = {
 
 请使用原型链相关知识实现b继承n=1;c继承n=2;m=3
 
+答案：
+```
+var obj = function(){}
+obj.prototype.n = 1;
+var b = new obj();
+obj.prototype = {
+	n:2,
+	m:3
+}
+var c = new obj();
+console.log(b.n,b.m,c.n,c.m)
+
+```
 推荐web程序员必备微信号 
 ▼
 
