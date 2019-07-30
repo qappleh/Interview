@@ -95,7 +95,30 @@ add(1)(2,3); // 6
 add(1,2)(3); // 6
 add(1,2,3); // 6
 ```
+答案：  
+```  
+function add(){
+	var args = [...arguments];
+	var fn = function(){
+	   args.push(...arguments);
+	   return fn;
+	}
+	fn.tostring = function(){
+	    return args.reduce((x,y) => x + y)
+	}
+	return fn;
+}
+console.log(add(1,2)); // 3
+console.log(add(1)(2)); // 3
+console.log(add(1)(2)(3)); // 6
+console.log(add(1,2,3)(4)); // 10
+```  
 
+2019-07-30  
+```  
+['1', '2', '3'].map(parseInt) what & why ?   
+
+```
 推荐web程序员必备微信号 
 ▼
 
