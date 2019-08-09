@@ -3,7 +3,23 @@
 注：每天早上9点左右更新题目及前一天的答案！
 
 今日一题：  
-第 14题（2019-08-08）：统计 1 ~ n 整数中出现 1 的次数.
+要求：
+
+1、只能修改 setTimeout 到 Math.floor(Math.random() * 1000 的代码
+
+2、不能修改 Math.floor(Math.random() * 1000
+
+3、不能使用全局变量
+```  
+function print(n){
+  setTimeout(() => {
+    console.log(n);
+  }, Math.floor(Math.random() * 1000));
+}
+for(var i = 0; i < 100; i++){
+  print(i);
+}  
+```
 
 第1题(2019-07-22)
 以下代码会输出什么
