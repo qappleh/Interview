@@ -3,7 +3,8 @@
 注：每天早上9点左右更新题目及前一天的答案！
 
 今日一题：  
-第 19题(2019-08-15)：请求时浏览器缓存 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？
+第 19题(2019-08-15)：请求时浏览器缓存 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？    
+讨论与答案：[第19题](https://github.com/qappleh/Web-Daily-Question/issues/14)  
 
 第1题(2019-07-22)
 以下代码会输出什么
