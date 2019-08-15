@@ -3,7 +3,7 @@
 注：每天早上9点左右更新题目及前一天的答案！
 
 今日一题：  
-第 18题(2019-08-14)：实现一个 sleep 函数，比如 sleep(1000) 意味着等待1000毫秒，可从 Promise、Generator、Async/Await 等角度实现
+第 19题(2019-08-15)：请求时浏览器缓存 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？
 
 第1题(2019-07-22)
 以下代码会输出什么
