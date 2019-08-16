@@ -3,10 +3,14 @@
 注：每天早上9点左右更新题目及前一天的答案！
 
 今日一题：  
-第 20题(2019-08-16)：下面代码中 a 在什么情况下会打印 1？  
-讨论与答：[第19题](https://github.com/qappleh/Web-Daily-Question/issues/15)
+
+
+
+第 20题(2019-08-16)：下面代码中 a 在什么情况下会打印 1？   
+
+
+讨论与答案：[第19题](https://github.com/qappleh/Web-Daily-Question/issues/15)
   
-讨论与答案：[第20题](https://github.com/qappleh/Web-Daily-Question/issues/14)  
 
 第1题(2019-07-22)
 以下代码会输出什么
