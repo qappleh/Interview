@@ -9,7 +9,7 @@
 第 20题(2019-08-16)：下面代码中 a 在什么情况下会打印 1？   
 
 
-讨论与答案：[第19题](https://github.com/qappleh/Web-Daily-Question/issues/15)
+讨论与答案：[第20题](https://github.com/qappleh/Web-Daily-Question/issues/15)
   
 
 第1题(2019-07-22)
