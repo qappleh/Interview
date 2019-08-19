@@ -6,10 +6,9 @@
 
 
 
-第 20题(2019-08-16)：下面代码中 a 在什么情况下会打印 1？   
+第 21 题(2019-08-16)：vue 是如何对数组方法进行变异的？例如 push、pop、splice 等方法
 
-
-讨论与答案：[第20题](https://github.com/qappleh/Web-Daily-Question/issues/15)
+讨论与答案：[第21题](https://github.com/qappleh/Web-Daily-Question/issues/16)
   
 
 第1题(2019-07-22)
