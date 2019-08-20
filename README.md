@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第 21 题(2019-08-19)：vue 是如何对数组方法进行变异的？例如 push、pop、splice 等方法
+第 22题(2019-08-20)：：ES5/ES6 的继承除了写法以外还有什么区别？
 
-讨论与答案：[第21题](https://github.com/qappleh/Web-Daily-Question/issues/16)
+讨论与答案：[第22题](https://github.com/qappleh/Web-Daily-Question/issues/24)
   
 
 
