@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第 22题(2019-08-20)：：ES5/ES6 的继承除了写法以外还有什么区别？
+第23题(2019-08-21)：介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景
 
-讨论与答案：[第22题](https://github.com/qappleh/Web-Daily-Question/issues/24)
+讨论与答案：[第23题](https://github.com/qappleh/Web-Daily-Question/issues/25)
   
 
 
