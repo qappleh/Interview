@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第24题(2019-08-22)：介绍下重绘和回流（Repaint & Reflow），以及如何进行优化
+第 25题(2019-08-23)：有以下 3 个判断数组的方法，Object.prototype.toString.call() 、 instanceof 以及 Array.isArray()，请分别介绍它们之间的区别和优劣
 
-讨论与答案：[第24题](https://github.com/qappleh/Web-Daily-Question/issues/26)
+讨论与答案：[第25题](https://github.com/qappleh/Web-Daily-Question/issues/27)
   
 
 
