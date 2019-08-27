@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第26题(2019-08-26)：输出以下代码执行结果
+第27题(2019-08-27)：前端怎么限制接口调用次数？
 
-讨论与答案：[第26题](https://github.com/qappleh/Web-Daily-Question/issues/28)
+讨论与答案：[第27题](https://github.com/qappleh/Web-Daily-Question/issues/29)
   
 
 
