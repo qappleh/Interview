@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第27题(2019-08-27)：前端怎么限制接口调用次数？
+第28题(2019-08-28)：用函数实现扑克牌排序
 
-讨论与答案：[第27题](https://github.com/qappleh/Web-Daily-Question/issues/29)
+讨论与答案：[第28题](https://github.com/qappleh/Web-Daily-Question/issues/30)
   
 
 
