@@ -4,11 +4,11 @@
 
 今日一题：  
 
-第28题(2019-08-28)：用函数实现扑克牌排序
+第29题(2019-08-29)：什么是防抖和节流？有什么区别？如何实现？
 
-讨论与答案：[第28题](https://github.com/qappleh/Web-Daily-Question/issues/30)
+讨论与答案：[第29题](https://github.com/qappleh/Web-Daily-Question/issues/31)
   
-
+更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
 推荐web程序员必备微信号 
 ▼
