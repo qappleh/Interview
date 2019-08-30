@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第29题(2019-08-29)：什么是防抖和节流？有什么区别？如何实现？
+第30题(2019-08-30)：如何将 [{id: 1}, {id: 2, pId: 1}, ...] 的重复数组（有重复数据）转成树形结构的数组 [{id: 1, child: [{id: 2, pId: 1}]}, ...] （需要去重）
 
-讨论与答案：[第29题](https://github.com/qappleh/Web-Daily-Question/issues/31)
+讨论与答案：[第30题](https://github.com/qappleh/Web-Daily-Question/issues/32)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
