@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第30题(2019-08-30)：如何将 [{id: 1}, {id: 2, pId: 1}, ...] 的重复数组（有重复数据）转成树形结构的数组 [{id: 1, child: [{id: 2, pId: 1}]}, ...] （需要去重）
+第31题(2019-09-02)：介绍下 Set、Map、WeakSet 和 WeakMap 的区别？
 
-讨论与答案：[第30题](https://github.com/qappleh/Web-Daily-Question/issues/32)
+讨论与答案：[第31题](https://github.com/qappleh/Web-Daily-Question/issues/33)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
