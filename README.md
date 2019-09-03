@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第31题(2019-09-02)：介绍下 Set、Map、WeakSet 和 WeakMap 的区别？
+第32题(2019-09-03)：考察作用域的一道代码题
 
-讨论与答案：[第31题](https://github.com/qappleh/Web-Daily-Question/issues/33)
+讨论与答案：[第32题](https://github.com/qappleh/Web-Daily-Question/issues/34)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
