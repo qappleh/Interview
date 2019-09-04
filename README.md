@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第32题(2019-09-03)：考察作用域的一道代码题
+第33题(2019-09-04)：谈谈你对 TCP 三次握手和四次挥手的理解
 
-讨论与答案：[第32题](https://github.com/qappleh/Web-Daily-Question/issues/34)
+讨论与答案：[第33题](https://github.com/qappleh/Web-Daily-Question/issues/35)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
