@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第34题(2019-09-05)：请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]，合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]
+第35题(2019-09-06)：使用迭代的方式实现 flatten 函数
 
-讨论与答案：[第34题](https://github.com/qappleh/Web-Daily-Question/issues/36)
+讨论与答案：[第35题](https://github.com/qappleh/Web-Daily-Question/issues/37)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
