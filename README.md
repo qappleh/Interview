@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第35题(2019-09-06)：使用迭代的方式实现 flatten 函数
+第36题(2019-09-09)：改造下面的代码，使之输出0 - 9，写出你能想到的所有解法
 
-讨论与答案：[第35题](https://github.com/qappleh/Web-Daily-Question/issues/37)
+讨论与答案：[第36题](https://github.com/qappleh/Web-Daily-Question/issues/38)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
