@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第36题(2019-09-09)：改造下面的代码，使之输出0 - 9，写出你能想到的所有解法
+第37题(2019-09-10)：写一个单向链数据结构的 js 实现并标注复杂度
 
-讨论与答案：[第36题](https://github.com/qappleh/Web-Daily-Question/issues/38)
+讨论与答案：[第37题](https://github.com/qappleh/Web-Daily-Question/issues/39)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
