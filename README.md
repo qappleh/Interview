@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第37题(2019-09-10)：写一个单向链数据结构的 js 实现并标注复杂度
+第38题(2019-09-11)：算法题
 
-讨论与答案：[第37题](https://github.com/qappleh/Web-Daily-Question/issues/39)
+讨论与答案：[第38题](https://github.com/qappleh/Web-Daily-Question/issues/40)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
