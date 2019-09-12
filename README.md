@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第38题(2019-09-11)：算法题
+第39题(2019-09-12)：反转链表，每 k 个节点反转一次，不足 k 就保持原有顺序
 
-讨论与答案：[第38题](https://github.com/qappleh/Web-Daily-Question/issues/40)
+讨论与答案：[第39题](https://github.com/qappleh/Web-Daily-Question/issues/41)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
