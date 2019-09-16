@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第39题(2019-09-12)：反转链表，每 k 个节点反转一次，不足 k 就保持原有顺序
+第40题(2019-09-16)：如何实现骨架屏，说说你的思路 
 
-讨论与答案：[第39题](https://github.com/qappleh/Web-Daily-Question/issues/41)
+讨论与答案：[第40题](https://github.com/qappleh/Web-Daily-Question/issues/42)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
