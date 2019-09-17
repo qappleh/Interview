@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第40题(2019-09-16)：如何实现骨架屏，说说你的思路 
+第41题(2019-09-17)：vue 如何优化首页的加载速度？vue 首页白屏是什么问题引起的？如何解决呢？ 
 
-讨论与答案：[第40题](https://github.com/qappleh/Web-Daily-Question/issues/42)
+讨论与答案：[第41题](https://github.com/qappleh/Web-Daily-Question/issues/43)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
