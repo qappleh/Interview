@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第41题(2019-09-17)：vue 如何优化首页的加载速度？vue 首页白屏是什么问题引起的？如何解决呢？ 
+第42题(2019-09-18)：Http 状态码 301 和 302 的应用场景分别是什么？ 
 
-讨论与答案：[第41题](https://github.com/qappleh/Web-Daily-Question/issues/43)
+讨论与参考答案：[第42题](https://github.com/qappleh/Web-Daily-Question/issues/44)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
