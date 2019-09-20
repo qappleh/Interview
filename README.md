@@ -4,7 +4,7 @@
 
 今日一题：  
 
-第44题(2019-09-19)：怎么提高webpack打包速度？谈谈你的思路和方案
+第44题(2019-09-20)：介绍下 http1.0、1.1、2.0 协议的区别？
 
 讨论与参考答案：[第44题](https://github.com/qappleh/Web-Daily-Question/issues/46)
   
