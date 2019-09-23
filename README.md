@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第44题(2019-09-20)：介绍下 http1.0、1.1、2.0 协议的区别？
+第45题(2019-09-23)：列举三种禁止浏览器缓存的头字段，并写出响应的设置值
 
-讨论与参考答案：[第44题](https://github.com/qappleh/Web-Daily-Question/issues/46)
+讨论与参考答案：[第45题](https://github.com/qappleh/Web-Daily-Question/issues/47)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
