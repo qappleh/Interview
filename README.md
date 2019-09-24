@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第45题(2019-09-23)：列举三种禁止浏览器缓存的头字段，并写出响应的设置值
+第46题(2019-09-24)：精确获取页面元素位置的方式有哪些
 
-讨论与参考答案：[第45题](https://github.com/qappleh/Web-Daily-Question/issues/47)
+讨论与参考答案：[第46题](https://github.com/qappleh/Web-Daily-Question/issues/48)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
