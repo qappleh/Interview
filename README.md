@@ -4,9 +4,35 @@
 
 今日一题：  
 
-第48题(2019-09-26)：如何判断object是数组类型？
+第49题(2019-09-27)：【编程题】已知数据结构users，请实现语法支持user.unique能够按照name字段去重，并输出结构为：["a","b"]
+```  
+var users=[{
+   id:1,name:"a"
+},{
+   id:2,name:"a"
+},{
+   id:3,name:"b"
+},{
+   id:4,name:"v"
+}]
+Array.prototype.unique = function () {
+    var res;
+    this.map(item => {
+        this[item.id - 1] = item.name
+    })
+    // ES6里新添加了两个很好用的东西，set和Array.from
+    // set是一种新的数据结构，它可以接收一个数组或者是类数组对象，自动去重其中的重复项目。
+    res=new Set(this);
+    console.log("new Set对象",res)
+    // 但是这里大家可以看到，set返回的是一个对象，但是我们想要的是数组啊。
+    // 这回，就该轮到Array.from出场了，它的作用，就是可以把类数组对象、可迭代对象转化为数组。
+    res=Array.from(new Set(this));
+    return  res//es6 数组去重
+}
+console.log(users.unique());  
+```
 
-讨论与参考答案：[第48题](https://github.com/qappleh/Web-Daily-Question/issues/50)
+讨论与参考答案：[第49题](https://github.com/qappleh/Web-Daily-Question/issues/51)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
