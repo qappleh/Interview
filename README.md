@@ -17,7 +17,7 @@ proxy.age //22
 proxy.location //Property "$(property)" does not exist
 ```
 
-讨论与参考答案：[第49题](https://github.com/qappleh/Web-Daily-Question/issues/51)
+讨论与参考答案：[第50题](https://github.com/qappleh/Web-Daily-Question/issues/52)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
