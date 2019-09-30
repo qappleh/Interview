@@ -4,20 +4,28 @@
 
 今日一题：  
 
-第50题(2019-09-29)：已知如下对象，请基于es6的proxy方法设计一个属性拦截读取操作的例子，要求实现去访问目标对象example中不存在的属性时，抛出错误：Property "$(property)" does not exist
+第51题(2019-09-30)：给出如下虚拟dom的数据结构，如何实现简单的虚拟dom，渲染到目标dom树
 ```  
-const man={
-    name:'jscoder',
-    age:22
-}
- //补全代码
-const proxy = new Proxy(...)
-proxy.name //"jscoder"
-proxy.age //22
-proxy.location //Property "$(property)" does not exist
+//样例数据
+let demoNode = ({
+    tagName: 'ul',
+    props: {'class': 'list'},
+    children: [
+        ({tagName: 'li', children: ['douyin']}),
+        ({tagName: 'li', children: ['toutiao']})
+    ]
+});
+```
+//构建一个render函数，将demoNode对象渲染为以下dom  
+```  
+<ul class="list">
+    <li>douyin</li>
+    <li>toutiao</li>
+</ul>
+
 ```
 
-讨论与参考答案：[第50题](https://github.com/qappleh/Web-Daily-Question/issues/52)
+讨论与参考答案：[第51题](https://github.com/qappleh/Web-Daily-Question/issues/53)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
