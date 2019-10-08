@@ -4,28 +4,9 @@
 
 今日一题：  
 
-第51题(2019-09-30)：给出如下虚拟dom的数据结构，如何实现简单的虚拟dom，渲染到目标dom树
-```  
-//样例数据
-let demoNode = ({
-    tagName: 'ul',
-    props: {'class': 'list'},
-    children: [
-        ({tagName: 'li', children: ['douyin']}),
-        ({tagName: 'li', children: ['toutiao']})
-    ]
-});
-```
-//构建一个render函数，将demoNode对象渲染为以下dom  
-```  
-<ul class="list">
-    <li>douyin</li>
-    <li>toutiao</li>
-</ul>
+第52题(2019-10-08)：谈谈你对事件委托代理的理解及它们的使用场景
 
-```
-
-讨论与参考答案：[第51题](https://github.com/qappleh/Web-Daily-Question/issues/53)
+讨论与参考答案：[第52题](https://github.com/qappleh/Web-Daily-Question/issues/54)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
