@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第52题(2019-10-08)：谈谈你对事件委托代理的理解及它们的使用场景
+第53题(2019-10-09)：谈谈你对闭包的理解、优缺点及使用场景
 
-讨论与参考答案：[第52题](https://github.com/qappleh/Web-Daily-Question/issues/54)
+讨论与参考答案：[第53题](https://github.com/qappleh/Web-Daily-Question/issues/55)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
