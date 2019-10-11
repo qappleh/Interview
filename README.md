@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第54题(2019-10-10)：实现一个函数clone，可以对JavaScript中的5种主要的数据类型（包括Number、String、Object、Array、Boolean）进行值复制
+第55题(2019-10-11)：在Javascript中什么是伪数组？如何将伪数组转化为标准数组？
 
-讨论与参考答案：[第54题](https://github.com/qappleh/Web-Daily-Question/issues/56)
+讨论与参考答案：[第55题](https://github.com/qappleh/Web-Daily-Question/issues/57)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
