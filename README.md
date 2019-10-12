@@ -4,9 +4,21 @@
 
 今日一题：  
 
-第55题(2019-10-11)：在Javascript中什么是伪数组？如何将伪数组转化为标准数组？
+第56题(2019-10-12)：对作用域上下文和this的理解，看下列代码：
+```  
+var User = {
+  count: 1,
+  getCount: function() {
+    return this.count;
+  }
+};
+console.log(User.getCount());  // what?
+var func = User.getCount;
+console.log(func());  // what?    
+```  
+问两处console输出什么？为什么？
 
-讨论与参考答案：[第55题](https://github.com/qappleh/Web-Daily-Question/issues/57)
+讨论与参考答案：[第56题](https://github.com/qappleh/Web-Daily-Question/issues/58)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
