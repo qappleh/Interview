@@ -4,21 +4,9 @@
 
 今日一题：  
 
-第56题(2019-10-12)：对作用域上下文和this的理解，看下列代码：
-```  
-var User = {
-  count: 1,
-  getCount: function() {
-    return this.count;
-  }
-};
-console.log(User.getCount());  // what?
-var func = User.getCount;
-console.log(func());  // what?    
-```  
-问两处console输出什么？为什么？
+第57题(2019-10-14)：编写一个 JavaScript 函数，输入指定类型的选择器 ( 仅需支持 id ， class ，tagName 三种简单 CSS 选择器，无需兼容组合选择器 ) 可以返回匹配的 DOM 节点，需考虑浏览器兼容性和性能。
 
-讨论与参考答案：[第56题](https://github.com/qappleh/Web-Daily-Question/issues/58)
+讨论与参考答案：[第57题](https://github.com/qappleh/Web-Daily-Question/issues/59)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
