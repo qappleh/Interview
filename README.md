@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第58题(2019-10-15)：定义一个log方法，让它可以代理console.log的方法
+第59题(2019-10-16)：为了保证页面输出安全，我们经常需要对一些特殊的字符进行转义，请写一个函数escapeHtml，将<, >, &, “进行转义
 
-讨论与参考答案：[第58题](https://github.com/qappleh/Web-Daily-Question/issues/60)
+讨论与参考答案：[第59题](https://github.com/qappleh/Web-Daily-Question/issues/61)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
