@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第59题(2019-10-16)：为了保证页面输出安全，我们经常需要对一些特殊的字符进行转义，请写一个函数escapeHtml，将<, >, &, “进行转义
+第60题(2019-10-17)：Vue 中的 computed 是如何实现的
 
-讨论与参考答案：[第59题](https://github.com/qappleh/Web-Daily-Question/issues/61)
+讨论与参考答案：[第60题](https://github.com/qappleh/Web-Daily-Question/issues/62)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
