@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第60题(2019-10-17)：Vue 中的 computed 是如何实现的
+第61题(2019-10-18)：谈一谈 nextTick 的原理 
 
-讨论与参考答案：[第60题](https://github.com/qappleh/Web-Daily-Question/issues/62)
+讨论与参考答案：[第61题](https://github.com/qappleh/Web-Daily-Question/issues/63)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
