@@ -20,4 +20,4 @@ web夜读课
 
  ▼长按下方↓↓↓二维码识别关注
  
-![web夜读课公众号二维码](https://github.com/qappleh/Web-Daily-Question/blob/master/qrcode_for_gh_64b8beeaaf09_344.jpg)
+![web夜读课公众号二维码](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X2pwZy8zSnhDMUJlcUdybjZvQ1g4OFJHTTNuaWE4OGVLT2lhMmoxMGYwT0dIOHRVMzBzdXEyeW9pY3NoNzJCUkJacnRUNGFlaWFaaWJEbUtIaWNKc3BkQ2xIU0V1REI3Zy82NDA_d3hfZm10PWpwZWcmdHA9d2VicCZ3eGZyb209NSZ3eF9sYXp5PTEmd3hfY289MQ)
