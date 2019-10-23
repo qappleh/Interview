@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第63题(2019-10-22)：求多个数组之间的交集(算法题）
+第64题(2019-10-23)：将'10000000000'形式的字符串，以每3位进行分隔展示'10.000.000.000',多种实现方式 (百度)
 
-讨论与参考答案：[第63题](https://github.com/qappleh/Web-Daily-Question/issues/65)
+讨论与参考答案：[第64题](https://github.com/qappleh/Web-Daily-Question/issues/66)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
