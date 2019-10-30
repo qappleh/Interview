@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第69题(2019-10-29)：https身份验证过程中会涉及到密钥， 对称加密，非对称加密，摘要的概念，请解释一下
+第70题(2019-10-30)：请简述一下node的多进程架构
 
-讨论与参考答案：[第69题](https://github.com/qappleh/Web-Daily-Question/issues/71)
+讨论与参考答案：[第70题](https://github.com/qappleh/Web-Daily-Question/issues/72)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
