@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第70题(2019-10-30)：请简述一下node的多进程架构
+第71题(2019-10-31)：如果使用过koa、egg这两个Node框架，请简述其中的中间件原理，最好用代码表示一下
 
-讨论与参考答案：[第70题](https://github.com/qappleh/Web-Daily-Question/issues/72)
+讨论与参考答案：[第71题](https://github.com/qappleh/Web-Daily-Question/issues/73)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
