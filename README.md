@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第71题(2019-10-31)：如果使用过koa、egg这两个Node框架，请简述其中的中间件原理，最好用代码表示一下
+第72题(2019-11-1)：请问创建子进程的方法有哪些，简单说一下它们的区别
 
-讨论与参考答案：[第71题](https://github.com/qappleh/Web-Daily-Question/issues/73)
+讨论与参考答案：[第72题](https://github.com/qappleh/Web-Daily-Question/issues/74)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
