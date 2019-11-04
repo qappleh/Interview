@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第72题(2019-11-1)：请问创建子进程的方法有哪些，简单说一下它们的区别
+第73题(2019-11-04)：Vue 中的 computed 和 watch 的区别在哪里（虾皮）
 
-讨论与参考答案：[第72题](https://github.com/qappleh/Web-Daily-Question/issues/74)
+讨论与参考答案：[第73题](https://github.com/qappleh/Web-Daily-Question/issues/75)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
