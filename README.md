@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第73题(2019-11-04)：Vue 中的 computed 和 watch 的区别在哪里（虾皮）
+第74题(2019-11-05)：深拷贝和浅拷贝的实现方式分别有哪些？(常问经典题）
 
-讨论与参考答案：[第73题](https://github.com/qappleh/Web-Daily-Question/issues/75)
+讨论与参考答案：[第74题](https://github.com/qappleh/Web-Daily-Question/issues/76)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
