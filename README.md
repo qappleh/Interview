@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第75题(2019-11-06)：webpack 中 loader 和 plugin 的区别是什么（平安）
+第76题(2019-11-07)：手动实现一个bind方法（喜马拉雅）
 
-讨论与参考答案：[第75题](https://github.com/qappleh/Web-Daily-Question/issues/77)
+讨论与参考答案：[第76题](https://github.com/qappleh/Web-Daily-Question/issues/78)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
