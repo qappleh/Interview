@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第76题(2019-11-07)：手动实现一个bind方法（喜马拉雅）
+第77题(2019-11-08)：手动封装一个请求函数，可以设置最大请求次数，请求成功则不再请求，请求失败则继续请求直到超过最大次数（流利说）
 
-讨论与参考答案：[第76题](https://github.com/qappleh/Web-Daily-Question/issues/78)
+讨论与参考答案：[第77题](https://github.com/qappleh/Web-Daily-Question/issues/79)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
