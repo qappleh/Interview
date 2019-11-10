@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第77题(2019-11-08)：手动封装一个请求函数，可以设置最大请求次数，请求成功则不再请求，请求失败则继续请求直到超过最大次数（流利说）
+第78题(2019-11-10)：说下浏览器的缓存机制（流利说）
 
-讨论与参考答案：[第77题](https://github.com/qappleh/Web-Daily-Question/issues/79)
+讨论与参考答案：[第78题](https://github.com/qappleh/Web-Daily-Question/issues/80)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
