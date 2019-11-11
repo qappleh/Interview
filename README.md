@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第78题(2019-11-10)：说下浏览器的缓存机制（流利说）
+第79题(2019-11-11)： forEach，map和filter的区别（哔哩哔哩）
 
-讨论与参考答案：[第78题](https://github.com/qappleh/Web-Daily-Question/issues/80)
+讨论与参考答案：[第79题](https://github.com/qappleh/Web-Daily-Question/issues/81)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
