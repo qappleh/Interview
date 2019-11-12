@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第79题(2019-11-11)： forEach，map和filter的区别（哔哩哔哩）
+第80题(2019-11-12)： 跨标签页的通讯方式有哪些（哔哩哔哩）
 
-讨论与参考答案：[第79题](https://github.com/qappleh/Web-Daily-Question/issues/81)
+讨论与参考答案：[第80题](https://github.com/qappleh/Web-Daily-Question/issues/82)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
