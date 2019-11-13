@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第80题(2019-11-12)： 跨标签页的通讯方式有哪些（哔哩哔哩）
+第81题(2019-11-13)： 实现一个函数判断数据类型（哔哩哔哩
 
-讨论与参考答案：[第80题](https://github.com/qappleh/Web-Daily-Question/issues/82)
+讨论与参考答案：[第81题](https://github.com/qappleh/Web-Daily-Question/issues/83)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
