@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第81题(2019-11-13)： 实现一个函数判断数据类型（哔哩哔哩）
+第82题(2019-11-14)： 什么是 IIFE (立即调用的函数表达式)
 
-讨论与参考答案：[第81题](https://github.com/qappleh/Web-Daily-Question/issues/83)
+讨论与参考答案：[第82题](https://github.com/qappleh/Web-Daily-Question/issues/84)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
