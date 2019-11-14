@@ -10,7 +10,7 @@
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
-推荐w全栈程序员必备微信号 
+推荐全栈程序员必备微信号 
 ▼
 
 深圳湾码农
