@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第82题(2019-11-14)： 什么是 IIFE (立即调用的函数表达式)
+第83题(2019-11-15)： .call 和 .apply 区别是啥？
 
-讨论与参考答案：[第82题](https://github.com/qappleh/Web-Daily-Question/issues/84)
+讨论与参考答案：[第83题](https://github.com/qappleh/Web-Daily-Question/issues/85)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
