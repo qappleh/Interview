@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第83题(2019-11-15)： .call 和 .apply 区别是啥？
+第84题(2019-11-18)： 如何在 JS 中“深冻结”对象
 
-讨论与参考答案：[第83题](https://github.com/qappleh/Web-Daily-Question/issues/85)
+讨论与参考答案：[第84题](https://github.com/qappleh/Web-Daily-Question/issues/86)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
