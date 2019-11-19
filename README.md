@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第84题(2019-11-18)： 如何在 JS 中“深冻结”对象
+第85题(2019-11-19)： 什么是SSR，怎么看待使用SSR（服务端渲染）的？
 
-讨论与参考答案：[第84题](https://github.com/qappleh/Web-Daily-Question/issues/86)
+讨论与参考答案：[第85题](https://github.com/qappleh/Web-Daily-Question/issues/87)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
