@@ -4,9 +4,9 @@
 
 今日一题：  
 
-第87题(2019-11-21)： 常见的web安全攻击及防护原理
+第88题(2019-11-22)： 服务端渲染SSR框架 Next.js的原理是什么及它的优缺点？
 
-讨论与参考答案：[第87题](https://github.com/qappleh/Web-Daily-Question/issues/89)
+讨论与参考答案：[第88题](https://github.com/qappleh/Web-Daily-Question/issues/90)
   
 更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
