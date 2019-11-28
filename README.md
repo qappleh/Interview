@@ -20,11 +20,11 @@
 
  ▼长按下方↓↓↓二维码识别关注
  
-![深圳湾码农公众号二维码](https://img-blog.csdnimg.cn/20191018105754473.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FhcHBsZWg=,size_16,color_FFFFFF,t_70)
+![深圳湾码农公众号二维码](https://img-blog.csdnimg.cn/20191128170404864.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FhcHBsZWg=,size_16,color_FFFFFF,t_70)
 
 
 前端每日一题-学习打卡 微信群二维码：
-![前端每日一题-学习打卡](https://img-blog.csdnimg.cn/20191119113050202.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FhcHBsZWg=,size_16,color_FFFFFF,t_70)
+![前端每日一题-学习打卡](https://img-blog.csdnimg.cn/20191128165959155.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FhcHBsZWg=,size_16,color_FFFFFF,t_70)
 
 群二维码过期的话可以加我个人微信：
 ![个人微信](https://img-blog.csdnimg.cn/20191119113238958.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FhcHBsZWg=,size_16,color_FFFFFF,t_70)
