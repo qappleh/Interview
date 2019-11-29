@@ -11,11 +11,9 @@
 ## 一周汇总
 > 第93题(2019-11-29)：ES6 class 和普通构造函数的区别？
 
-讨论与参考答案：[第93题](https://github.com/qappleh/Web-Daily-Question/issues/95)          
+讨论与参考答案：[第93题](https://github.com/qappleh/Web-Daily-Question/issues/95)</br>          
 
-                                                                             
-                                                                             
-
+                                                                                                                                                        
 > 第92题(2019-11-28)：项目中遇到比较难解决的问题bug最后是通过什么途径去解决的了？
 
 讨论与参考答案：[第92题](https://github.com/qappleh/Web-Daily-Question/issues/94)     
