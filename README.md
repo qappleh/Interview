@@ -7,9 +7,17 @@
 第93题(2019-11-29)：ES6 class 和普通构造函数的区别？
 
 讨论与参考答案：[第93题](https://github.com/qappleh/Web-Daily-Question/issues/95)
-  
-更多每日一题及交流与讨论请点击[Issues](https://github.com/qappleh/Web-Daily-Question/issues)
 
+## 一周汇总
+> 第93题(2019-11-29)：ES6 class 和普通构造函数的区别？
+
+讨论与参考答案：[第93题](https://github.com/qappleh/Web-Daily-Question/issues/95)
+
+## 所有面试题汇总
+  
+ [大前端每日一题所有题目及答案汇总](https://github.com/qappleh/Web-Daily-Question/issues)
+
+## 联系我
 推荐全栈程序员必备微信号 
 ▼
 
