@@ -39,6 +39,10 @@
 
 讨论与参考答案：[第89题](https://github.com/qappleh/Web-Daily-Question/issues/91)    
 
+## 名企题库  
+### 腾讯  
+[第27题(2019-08-27)：怎么限制接口调用次数？](https://github.com/qappleh/Web-Daily-Question/issues/29)
+
 ## 所有面试题汇总
   
  [大前端每日一题所有题目及答案汇总](https://github.com/qappleh/Web-Daily-Question/issues)
