@@ -4,7 +4,7 @@
 
 ## 今日一题：  
 
-> 第94题(2019-12-2)：vue从data改变到页面渲染的过程？(腾讯）
+> 第94题(2019-12-02)：vue从data改变到页面渲染的过程？(腾讯）
 
 讨论与参考答案：[第94题](https://github.com/qappleh/Web-Daily-Question/issues/96)  
 
