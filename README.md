@@ -4,9 +4,9 @@
 
 ## 今日一题：  
 
-> 第94题(2019-12-02)：vue从data改变到页面渲染的过程？(腾讯）
+> 第95题(2019-12-03)：谈谈你对Virtual DOM 的内部工作原理的理解？(腾讯)
 
-讨论与参考答案：[第94题](https://github.com/qappleh/Web-Daily-Question/issues/96)  
+讨论与参考答案：[第95题](https://github.com/qappleh/Web-Daily-Question/issues/97)  
 
 ## 一周汇总
 > 第93题(2019-11-29)：ES6 class 和普通构造函数的区别？
@@ -49,6 +49,8 @@
 [第62题(2019-10-21)：为什么 HTTP1.1 不能实现多路复用（腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/64)  
 
 [第94题(2019-12-02)：vue从data改变到页面渲染的过程？(腾讯）](https://github.com/qappleh/Web-Daily-Question/issues/96)
+
+[第95题(2019-12-03)：谈谈你对Virtual DOM 的内部工作原理的理解？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/97)
 
 ### 阿里  
 
