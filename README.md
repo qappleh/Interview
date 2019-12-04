@@ -6,7 +6,7 @@
 
 ## 今日一题：  
 
-> 第96题(2019-12-04)：谈谈Websocket原理及使用场景?(腾讯)
+> 第96题(2019-12-04)：谈谈Websocket的原理及使用场景?(腾讯)
 
 讨论与参考答案：[第96题](https://github.com/qappleh/Web-Daily-Question/issues/98)  
 
@@ -54,7 +54,7 @@
 
 [第95题(2019-12-03)：谈谈你对Virtual DOM 的内部工作原理的理解？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/97)
 
-[第96题(2019-12-04)：谈谈Websocket原理及使用场景?(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/98)
+[第96题(2019-12-04)：谈谈Websocket的原理及使用场景?(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/98)
 
 ### 阿里  
 
