@@ -6,9 +6,9 @@
 
 ## 今日一题：  
 
-> 第95题(2019-12-03)：谈谈你对Virtual DOM 的内部工作原理的理解？(腾讯)
+> 第96题(2019-12-04)：谈谈Websocket原理及使用场景?(腾讯)
 
-讨论与参考答案：[第95题](https://github.com/qappleh/Web-Daily-Question/issues/97)  
+讨论与参考答案：[第96题](https://github.com/qappleh/Web-Daily-Question/issues/98)  
 
 ## 一周汇总
 > 第93题(2019-11-29)：ES6 class 和普通构造函数的区别？
@@ -53,6 +53,8 @@
 [第94题(2019-12-02)：vue从data改变到页面渲染的过程？(腾讯）](https://github.com/qappleh/Web-Daily-Question/issues/96)
 
 [第95题(2019-12-03)：谈谈你对Virtual DOM 的内部工作原理的理解？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/97)
+
+[第96题(2019-12-04)：谈谈Websocket原理及使用场景?(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/98)
 
 ### 阿里  
 
