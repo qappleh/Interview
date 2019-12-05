@@ -4,4 +4,6 @@
 
 [003.Node.js 模块机制及常见面试问题解答](https://www.jianshu.com/p/de5ed9da0e2c)
 
-[004.玩玩服务端渲染之 Next.js](https://juejin.im/post/5cf870af6fb9a07ee46352eb)
+[004.玩玩服务端渲染之 Next.js](https://juejin.im/post/5cf870af6fb9a07ee46352eb)  
+
+[005.Node部署和运维工作量降低80%，腾讯NOW直播是怎么做到的](http://c7.gg/fRJAH)
