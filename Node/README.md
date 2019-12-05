@@ -6,4 +6,6 @@
 
 [004.玩玩服务端渲染之 Next.js](https://juejin.im/post/5cf870af6fb9a07ee46352eb)  
 
-[005.Node部署和运维工作量降低80%，腾讯NOW直播是怎么做到的](http://c7.gg/fRJAH)
+[005.Node部署和运维工作量降低80%，腾讯NOW直播是怎么做到的](http://c7.gg/fRJAH)   
+
+[006.消息队列助你成为高薪的 Node.js 工程师](https://juejin.im/post/5dd8cd7ae51d4523501f7331)
