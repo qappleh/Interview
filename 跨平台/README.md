@@ -4,6 +4,6 @@
  
 [003.React Native如何做跨平台设计](https://blog.csdn.net/yeana1/article/details/52094471)  
 
-[004.React Native如何做跨平台设计](https://blog.csdn.net/yeana1/article/details/52094471)
+[004.react-native技术栈总结](https://www.jianshu.com/p/95308355c57b)
 
 
