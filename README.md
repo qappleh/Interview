@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第97题(2019-12-05)：跨平台框架weex和rn及Flutter的原理是什么(腾讯) ？
+> 第98题(2019-12-06)：有读过Vuex的源码吗？如果要你自己设计一个状态管理库你会怎么去设计？(腾讯)
 
-讨论与参考答案：[第97题](https://github.com/qappleh/Web-Daily-Question/issues/99)  
+讨论与参考答案：[第98题](https://github.com/qappleh/Web-Daily-Question/issues/100)  
 
 ## 一周汇总
 > 第93题(2019-11-29)：ES6 class 和普通构造函数的区别？
@@ -57,6 +57,8 @@
 [第96题(2019-12-04)：谈谈Websocket的原理及使用场景?(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/98)
 
 [第97题(2019-12-05)：跨平台框架weex和rn及Flutter的原理是什么(腾讯) ？](https://github.com/qappleh/Web-Daily-Question/issues/99)
+
+[第98题(2019-12-06)：有读过Vuex的源码吗？如果要你自己设计一个状态管理库你会怎么去设计？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/100)
 
 ### 阿里  
 
