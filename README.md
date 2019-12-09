@@ -10,35 +10,35 @@
 讨论与参考答案：[第99题](https://github.com/qappleh/Web-Daily-Question/issues/101)  
 
 ## 一周汇总
-> 第93题(2019-11-29)：ES6 class 和普通构造函数的区别？
+> 第98题(2019-12-06)：有读过Vuex的源码吗？如果要你自己设计一个状态管理库你会怎么去设计？(腾讯)
 
-讨论与参考答案：[第93题](https://github.com/qappleh/Web-Daily-Question/issues/95)</br>          
+讨论与参考答案：[第98题](https://github.com/qappleh/Web-Daily-Question/issues/100)</br>          
 
                                                                                                                                                         
-> 第92题(2019-11-28)：项目中遇到比较难解决的问题bug最后是通过什么途径去解决的了？
+> 第97题(2019-12-05)：跨平台框架weex和rn及Flutter的原理是什么(腾讯) ？
 
-讨论与参考答案：[第92题](https://github.com/qappleh/Web-Daily-Question/issues/94)     
-
-
-
-
-> 第91题(2019-11-27)：  你所了解的webpack的构建流程与打包原理？
-
-讨论与参考答案：[第91题](https://github.com/qappleh/Web-Daily-Question/issues/93)    
+讨论与参考答案：[第97题](https://github.com/qappleh/Web-Daily-Question/issues/99)     
 
 
 
 
-> 第90题(2019-11-26)： 如何抓取数据？如何使用工具来配置代理？
+> 第96题(2019-12-04)：谈谈Websocket的原理及使用场景?(腾讯) 
+
+讨论与参考答案：[第96题](https://github.com/qappleh/Web-Daily-Question/issues/98)    
+
+
+
+
+> 第95题(2019-12-03)：谈谈你对Virtual DOM 的内部工作原理的理解？
  
-讨论与参考答案：[第90题](https://github.com/qappleh/Web-Daily-Question/issues/92)    
+讨论与参考答案：[第95题](https://github.com/qappleh/Web-Daily-Question/issues/97)    
 
 
 
 
-> 第89题(2019-11-25)： 使用 ECMAScript（JS）代码实现一个事件类Event，包含下面功能：绑定事件、解绑事件和派发事件
+> 第94题(2019-12-02)：vue从data改变到页面渲染的过程？
 
-讨论与参考答案：[第89题](https://github.com/qappleh/Web-Daily-Question/issues/91)    
+讨论与参考答案：[第94题](https://github.com/qappleh/Web-Daily-Question/issues/96)    
 
 ## 名企题库  
 
