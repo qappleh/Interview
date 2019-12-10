@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第99题(2019-12-09)：webAssebly1.0成为W3C标准，你对它了解多少？  
+> 第100题(2019-12-10)：谈谈你对OAuth2.0 原理流程的理解及运用？
 
-讨论与参考答案：[第99题](https://github.com/qappleh/Web-Daily-Question/issues/101)  
+讨论与参考答案：[第100题](https://github.com/qappleh/Web-Daily-Question/issues/102)  
 
 ## 一周汇总
 > 第98题(2019-12-06)：有读过Vuex的源码吗？如果要你自己设计一个状态管理库你会怎么去设计？(腾讯)
@@ -59,6 +59,8 @@
 [第97题(2019-12-05)：跨平台框架weex和rn及Flutter的原理是什么(腾讯) ？](https://github.com/qappleh/Web-Daily-Question/issues/99)
 
 [第98题(2019-12-06)：有读过Vuex的源码吗？如果要你自己设计一个状态管理库你会怎么去设计？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/100)
+
+[第100题(2019-12-06)：谈谈你对OAuth2.0 原理流程的理解及运用？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/102)
 
 ### 阿里  
 
