@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第100题(2019-12-10)：谈谈你对OAuth2.0 原理流程的理解及运用？
+> 第101题(2019-12-11)：组件设计的原则是什么，有开发过npm库发布到npm市场吗？
 
-讨论与参考答案：[第100题](https://github.com/qappleh/Web-Daily-Question/issues/102)  
+讨论与参考答案：[第101题](https://github.com/qappleh/Web-Daily-Question/issues/103)  
 
 ## 一周汇总
 > 第98题(2019-12-06)：有读过Vuex的源码吗？如果要你自己设计一个状态管理库你会怎么去设计？(腾讯)
@@ -60,7 +60,9 @@
 
 [第98题(2019-12-06)：有读过Vuex的源码吗？如果要你自己设计一个状态管理库你会怎么去设计？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/100)
 
-[第100题(2019-12-06)：谈谈你对OAuth2.0 原理流程的理解及运用？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/102)
+[第100题(2019-12-10)：谈谈你对OAuth2.0 原理流程的理解及运用？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/102)  
+
+[第101题(2019-12-11)：组件设计的原则是什么，有开发过npm库发布到npm市场吗？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/103)
 
 ### 阿里  
 
