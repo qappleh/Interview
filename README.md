@@ -150,5 +150,5 @@
 ![深圳湾码农公众号二维码](https://img-blog.csdnimg.cn/20191128170404864.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FhcHBsZWg=,size_16,color_FFFFFF,t_70)
 
 
-个人微信(加我拉你进学习打卡与技术交流群)：
-![个人微信](https://img-blog.csdnimg.cn/20191214171240527.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FhcHBsZWg=,size_16,color_FFFFFF,t_70)
+个人微信(加我拉你进web全栈学习打卡与技术交流群)：如二维码图片不显示，可搜微信号：RHB_1223!
+![个人微信](https://img-blog.csdnimg.cn/20191214171240527.jpg)
