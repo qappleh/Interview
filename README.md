@@ -11,35 +11,29 @@
 讨论与参考答案：[第104题](https://github.com/qappleh/Web-Daily-Question/issues/106)  
 
 ## 一周汇总
-> 第98题(2019-12-06)：有读过Vuex的源码吗？如果要你自己设计一个状态管理库你会怎么去设计？(腾讯)
+>[第104题(2019-12-14)：说一下你的优缺点、还能提高的地方及未来职业规划？](https://github.com/qappleh/Web-Daily-Question/issues/106)
 
-讨论与参考答案：[第98题](https://github.com/qappleh/Web-Daily-Question/issues/100)</br>          
+讨论与参考答案：[第104题](https://github.com/qappleh/Web-Daily-Question/issues/106)
 
-                                                                                                                                                        
-> 第97题(2019-12-05)：跨平台框架weex和rn及Flutter的原理是什么(腾讯) ？
+>[第103题(2019-12-13)：谈谈你对MVC、MVP、MVVM这三种架构模式的理解及它们的区别？](https://github.com/qappleh/Web-Daily-Question/issues/105)
 
-讨论与参考答案：[第97题](https://github.com/qappleh/Web-Daily-Question/issues/99)     
+讨论与参考答案：[第103题](https://github.com/qappleh/Web-Daily-Question/issues/105)
 
+>[第102题(2019-12-12)：了解过PWA吗？它的离线缓存原理是什么？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/104)
 
+讨论与参考答案：[第102题](https://github.com/qappleh/Web-Daily-Question/issues/104)
 
+>[第101题(2019-12-11)：组件设计的原则是什么，有开发过npm库发布到npm市场吗？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/103)
 
-> 第96题(2019-12-04)：谈谈Websocket的原理及使用场景?(腾讯) 
+讨论与参考答案：[第101题](https://github.com/qappleh/Web-Daily-Question/issues/103)
 
-讨论与参考答案：[第96题](https://github.com/qappleh/Web-Daily-Question/issues/98)    
+>[第100题(2019-12-10)：谈谈你对OAuth2.0 原理流程的理解及运用？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/102)  
 
+讨论与参考答案：[第100题](https://github.com/qappleh/Web-Daily-Question/issues/102)
 
-
-
-> 第95题(2019-12-03)：谈谈你对Virtual DOM 的内部工作原理的理解？
- 
-讨论与参考答案：[第95题](https://github.com/qappleh/Web-Daily-Question/issues/97)    
-
-
-
-
-> 第94题(2019-12-02)：vue从data改变到页面渲染的过程？
-
-讨论与参考答案：[第94题](https://github.com/qappleh/Web-Daily-Question/issues/96)    
+>[第99题(2019-12-09)：webAssebly1.0成为W3C标准，你对它了解多少？](https://github.com/qappleh/Web-Daily-Question/issues/101)
+]
+讨论与参考答案：[第99题](https://github.com/qappleh/Web-Daily-Question/issues/101)  
 
 ## 名企题库  
 
