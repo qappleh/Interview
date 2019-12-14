@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第103题(2019-12-13)：谈谈你对MVC、MVP、MVVM这三种架构模式的理解及它们的区别？   
+> 第104题(2019-12-14)：说一下你的优缺点、还能提高的地方及未来职业规划？   
 
-讨论与参考答案：[第103题](https://github.com/qappleh/Web-Daily-Question/issues/105)  
+讨论与参考答案：[第104题](https://github.com/qappleh/Web-Daily-Question/issues/106)  
 
 ## 一周汇总
 > 第98题(2019-12-06)：有读过Vuex的源码吗？如果要你自己设计一个状态管理库你会怎么去设计？(腾讯)
@@ -67,6 +67,8 @@
 [第102题(2019-12-12)：了解过PWA吗？它的离线缓存原理是什么？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/104)
 
 [第103题(2019-12-13)：谈谈你对MVC、MVP、MVVM这三种架构模式的理解及它们的区别？](https://github.com/qappleh/Web-Daily-Question/issues/105)
+
+[第104题(2019-12-14)：说一下你的优缺点、还能提高的地方及未来职业规划？](https://github.com/qappleh/Web-Daily-Question/issues/106)
 
 ### 阿里  
 
