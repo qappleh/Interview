@@ -32,7 +32,7 @@
 讨论与参考答案：[第100题](https://github.com/qappleh/Web-Daily-Question/issues/102)
 
 >[第99题(2019-12-09)：webAssebly1.0成为W3C标准，你对它了解多少？](https://github.com/qappleh/Web-Daily-Question/issues/101)
-]
+
 
 讨论与参考答案：[第99题](https://github.com/qappleh/Web-Daily-Question/issues/101)  
 
