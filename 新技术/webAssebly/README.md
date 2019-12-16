@@ -6,10 +6,8 @@
 
 [4.几张图让你看懂WebAssembly](https://www.jianshu.com/p/bff8aa23fe4d)
 
-[5.几张图让你看懂WebAssembly](https://www.jianshu.com/p/bff8aa23fe4d)
+[5.WebAssembly 应用案例直击，谷歌地球都在用](https://cloud.tencent.com/developer/news/92890)
 
-[6.WebAssembly 应用案例直击，谷歌地球都在用](https://cloud.tencent.com/developer/news/92890)
+[6.让C代码在浏览器中运行——WebAssembly入门介绍](https://blog.csdn.net/sinat_32582203/article/details/73355211)
 
-[7.让C代码在浏览器中运行——WebAssembly入门介绍](https://blog.csdn.net/sinat_32582203/article/details/73355211)
-
-[8.Awesome WASM](https://github.com/mbasso/awesome-wasm)
+[7.Awesome WASM](https://github.com/mbasso/awesome-wasm)
