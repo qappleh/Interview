@@ -11,8 +11,8 @@
 
 [6.用微前端的方式搭建类单页应用-美团](https://www.cnblogs.com/meituantech/p/9604591.html)  
 
-[7.带你手写微前端框架] (https://juejin.im/post/5db4253451882556a035ae5d)
+[7.带你手写微前端框架](https://juejin.im/post/5db4253451882556a035ae5d)
 
-[8.微前端入门] (https://juejin.im/post/5d8adb8ff265da5ba12cd173)
+[8.微前端入门](https://juejin.im/post/5d8adb8ff265da5ba12cd173)
 
-[9.每日优鲜供应链前端团队微前端改造] (https://juejin.im/post/5d7f702ce51d4561f777e258)
+[9.每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
