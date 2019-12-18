@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第106题(2019-12-17)：babel转换es6语法工作原理是什么？   
+> 第107题(2019-12-18)：一个TCP 连接可以发多少个 HTTP 请求?   
 
-讨论与参考答案：[第106题](https://github.com/qappleh/Web-Daily-Question/issues/108)  
+讨论与参考答案：[第107题](https://github.com/qappleh/Web-Daily-Question/issues/109)  
 
 ## 一周汇总
 >[第104题(2019-12-14)：说一下你的优缺点、还能提高的地方及未来职业规划？](https://github.com/qappleh/Web-Daily-Question/issues/106)
