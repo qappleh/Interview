@@ -135,6 +135,12 @@
 ## 所有面试题汇总
   
  [大前端每日一题所有题目及答案汇总](https://github.com/qappleh/Web-Daily-Question/issues)
+ 
+## 面经分享
+ [【面经】记一次腾讯社招前端面试（已拿到offer入职）](http://suo.im/6bxGo7)
+ [今日头条web全栈面试记](http://suo.im/6qA9hZ)
+ [【面经】面试遇到不会回答的问题，如何力挽狂澜 ？](http://suo.im/5OZ6Cy)
+ [分享 10 道 Nodejs 进程相关面试题](http://suo.im/6qA7EH)
 
 ## 联系我
 推荐全栈程序员必备微信号 
