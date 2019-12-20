@@ -144,6 +144,12 @@
  [【面经】面试遇到不会回答的问题，如何力挽狂澜 ？](http://suo.im/5OZ6Cy)  
  
  [分享 10 道 Nodejs 进程相关面试题](http://suo.im/6qA7EH)
+ 
+ ## 掘金专栏原创文
+ [你需掌握的CSS知识都在这了（长文建议收藏，文末有福利）](https://juejin.im/post/5d8336d2f265da03df5f4a06)  
+ 
+ [【吐血整理】强烈推荐 GitHub 上值得学习的开源实战项目(持续更新中，长文建议收藏)](https://juejin.im/post/5df9fe6be51d45583c1cc3f7)  
+ 
 
 ## 联系我
 推荐全栈程序员必备微信号 
