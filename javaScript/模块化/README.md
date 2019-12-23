@@ -2,7 +2,7 @@
 
 [2.最全的前端模块化方案](https://www.jianshu.com/p/f684583e2775)
 
-[3.前端模块化详解(完整版)](https://segmentfault.com/a/1190000017466120）
+[3.前端模块化详解(完整版)](https://segmentfault.com/a/1190000017466120)
 
 [4.Node中没搞明白require和import，你会被坑的很惨](https://imweb.io/topic/582293894067ce9726778be9)
 
