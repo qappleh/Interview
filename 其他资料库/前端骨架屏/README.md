@@ -1,4 +1,4 @@
-[1.一种对开发更友好的前端骨架屏自动生成方案]( http://suo.im/6xrJRK)
+[1.一种对开发更友好的前端骨架屏自动生成方案]( https://segmentfault.com/a/1190000020309764)
 
 [2.网页骨架屏自动生成方案（dps）]( http://www.imooc.com/article/289688)
 
