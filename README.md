@@ -10,6 +10,9 @@
 
 讨论与参考答案：[第111题](https://github.com/qappleh/Web-Daily-Question/issues/113)  
 
+## 我也要出题：
+>把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
+
 ## 一周汇总
 >[第105题(2019-12-16)：有了解过微前端的概念吗？如果要你去设计实施微前端你会怎么做？](https://github.com/qappleh/Web-Daily-Question/issues/107)
 
