@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第110题(2019-12-21)：聊聊前端模块化方案及import、require、export、module.exports 的区别？  
+> 第111题(2019-12-23)：写出一个数组展开函数, 如输入：[1,[2,[3,4,2],2],5,[6]], 则输出：[1,2,3,4,2,2,5,6]  
 
-讨论与参考答案：[第110题](https://github.com/qappleh/Web-Daily-Question/issues/112)  
+讨论与参考答案：[第111题](https://github.com/qappleh/Web-Daily-Question/issues/113)  
 
 ## 一周汇总
 >[第104题(2019-12-14)：说一下你的优缺点、还能提高的地方及未来职业规划？](https://github.com/qappleh/Web-Daily-Question/issues/106)
