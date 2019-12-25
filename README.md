@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第112题(2019-12-24)：请使用canvas画一个五角星。 
+> 第113题(2019-12-25)：说说Nginx 有哪些负载均衡策略？ 
 
-讨论与参考答案：[第112题](https://github.com/qappleh/Web-Daily-Question/issues/114)  
+讨论与参考答案：[第113题](https://github.com/qappleh/Web-Daily-Question/issues/115)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
