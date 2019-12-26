@@ -12,3 +12,12 @@
 
 [7.面试官，不要再问我三次握手和四次挥手]( https://www.cnblogs.com/heyonggang/p/11634228.html)
 
+[8.一文看懂https如何保证数据传输的安全性的]( https://www.cnblogs.com/kubidemanong/p/9390021.html)
+
+[9. SSL/TLS协议运行机制的概述]( http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
+
+[10.HTTP和HTTPS协议，看一篇就够了]( https://blog.csdn.net/xiaoming100001/article/details/81109617)
+
+[11.Http和Https的区别（面试常考题）]( https://blog.csdn.net/qq_38289815/article/details/80969419)
+
+[12.Http协议面试题小结]( https://blog.csdn.net/weixin_38051694/article/details/77777010)
