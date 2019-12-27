@@ -6,9 +6,20 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第114题(2019-12-26)：HTTPS如何实现安全加密传输？ 
+> 第115题(2019-12-27)：请输出以下代码的执行结果? 
+``` 
+const promise = new Promise((resolve, reject) => {
+  console.log(1)
+  resolve()
+  console.log(2)
+})
+promise.then(() => {
+  console.log(3)
+})
+console.log(4)
+```
 
-讨论与参考答案：[第114题](https://github.com/qappleh/Web-Daily-Question/issues/116)  
+讨论与参考答案：[第115题](https://github.com/qappleh/Web-Daily-Question/issues/117)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
