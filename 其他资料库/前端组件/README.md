@@ -5,3 +5,5 @@
 [3.手把手教你用npm 制作npm库并发布到npm市场](https://www.jianshu.com/p/b8e0ffe423b5)  
 
 [4.如何开发一个npm包并发布到npm中央仓库](https://www.cnblogs.com/xuange306/p/11435361.html)
+
+[5.前端组件设计原则](https://github.com/lightningminers/article/issues/36)
