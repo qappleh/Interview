@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第116题(2019-12-28)：vue-router 的原理，history 模式和 hash 模式的区别，为什么 history 模式是先进行 app 内模块的切换再去手动更新路由？
+> 第117题(2019-12-30)：介绍一下项目中单元测试的情况，用例有多少，如何运行？
 
-讨论与参考答案：[第116题](https://github.com/qappleh/Web-Daily-Question/issues/118)  
+讨论与参考答案：[第117题](https://github.com/qappleh/Web-Daily-Question/issues/119)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
