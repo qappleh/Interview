@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第120题(2020-01-03)：编程题：有一个长度为 32 的数组，如何将它转换为长度为4*8的二维数组(拼多多）
+> 第121题(2020-01-04)：谈谈Service Worker的生命周期、注册时机和作用？(阿里有赞)
 
-讨论与参考答案：[第120题](https://github.com/qappleh/Web-Daily-Question/issues/122)  
+讨论与参考答案：[第121题](https://github.com/qappleh/Web-Daily-Question/issues/123)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
