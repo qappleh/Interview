@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第121题(2020-01-04)：谈谈Service Worker的生命周期、注册时机和作用？(阿里有赞)
+> 第122题(2020-01-06)：项目中是否使用了 TypeScript，TS 中的枚举是怎样写的，如果用原生 JS 怎样实现？（拼多多）
 
-讨论与参考答案：[第121题](https://github.com/qappleh/Web-Daily-Question/issues/123)  
+讨论与参考答案：[第122题](https://github.com/qappleh/Web-Daily-Question/issues/124)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
