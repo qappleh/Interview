@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第124题(2020-01-08)：vue 的 nextTick 实现原理以及应用场景(英语流利说）
+> 第125题(2020-01-09)：React Hooks 解决了什么问题，如何用 Hooks 的方法去模拟 Class Components 的功能(拼多多）
 
-讨论与参考答案：[第124题](https://github.com/qappleh/Web-Daily-Question/issues/126)  
+讨论与参考答案：[第125题](https://github.com/qappleh/Web-Daily-Question/issues/127)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
