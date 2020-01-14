@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第127题(2020-01-13)：假设现在有一个微信公众号文章的页面，可以展示文章、图片、视频和读者留言，从安全和交互性能的角度去讲一下如何优化？(企业微信)
+> 第128题(2020-01-14)：websocket 和 TCP Socket的区别，websocket 的握手过程，为什么要基于 HTTP 请求来握手?(字节跳动)
 
-讨论与参考答案：[第127题](https://github.com/qappleh/Web-Daily-Question/issues/129)  
+讨论与参考答案：[第128题](https://github.com/qappleh/Web-Daily-Question/issues/130)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
