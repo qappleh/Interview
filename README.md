@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第128题(2020-01-14)：websocket 和 TCP Socket的区别，websocket 的握手过程，为什么要基于 HTTP 请求来握手?(字节跳动)
+> 第129题(2020-01-15)：一个监听了 input 事件的输入框，每次触发input都会发送请求，这个输入框的优化方案(微众银行)
 
-讨论与参考答案：[第128题](https://github.com/qappleh/Web-Daily-Question/issues/130)  
+讨论与参考答案：[第129题](https://github.com/qappleh/Web-Daily-Question/issues/131)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
