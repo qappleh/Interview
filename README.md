@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第129题(2020-01-15)：一个监听了 input 事件的输入框，每次触发input都会发送请求，这个输入框的优化方案(微众银行)
+> 第131题(2020-01-17)：编程题：Promise 调度相关，JS 实现一个带并发限制的异步调度器 Scheduler，保证同时运行的任务最多有两个(字节跳动）
 
-讨论与参考答案：[第129题](https://github.com/qappleh/Web-Daily-Question/issues/131)  
+讨论与参考答案：[第131题](https://github.com/qappleh/Web-Daily-Question/issues/133)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
