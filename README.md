@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第142题(2020-02-03)：fetch为什么会发送2次请求？
+> 第143题(2020-02-04)：如何在Node端配置路径别名（类似于Webpack中的alias配置）
 
-讨论与参考答案：[第142题](https://github.com/qappleh/Web-Daily-Question/issues/144)  
+讨论与参考答案：[第143题](https://github.com/qappleh/Web-Daily-Question/issues/145)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
