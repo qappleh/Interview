@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第143题(2020-02-04)：如何在Node端配置路径别名（类似于Webpack中的alias配置）
+> 第150题(2020-02-13)：koa中response.send、response.rounded、response.json发生了什么事，浏览器为什么能识别到它是一个json结构或是html?
 
-讨论与参考答案：[第143题](https://github.com/qappleh/Web-Daily-Question/issues/145)  
+讨论与参考答案：[第150题](https://github.com/qappleh/Web-Daily-Question/issues/152)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
