@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第150题(2020-02-13)：koa中response.send、response.rounded、response.json发生了什么事，浏览器为什么能识别到它是一个json结构或是html?
+> 第151题(2020-02-14)：koa-bodyparser怎么来解析request？
 
-讨论与参考答案：[第150题](https://github.com/qappleh/Web-Daily-Question/issues/152)  
+讨论与参考答案：[第151题](https://github.com/qappleh/Web-Daily-Question/issues/153)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
@@ -138,7 +138,7 @@
   
  [大前端每日一题所有题目及答案汇总](https://github.com/qappleh/Web-Daily-Question/issues)
  
-## 面经分享
+## 面试题和面经分享
  [【面经】记一次腾讯社招前端面试（已拿到offer入职）](http://suo.im/6bxGo7)  
  
  [今日头条web全栈面试记](http://suo.im/6qA9hZ)  
@@ -160,12 +160,4 @@
 深圳湾码农
 微信号：ydhlwnxs
 
-推荐理由：全栈开发人员都在关注的公众号，在多学一点知识，就可以少写一行代码！专注于技术资源分享，经验交流，最新技术解读，另有海量免费电子书以及成套学习资源，关注深圳湾码农，做技术得先驱者。
-
- ▼长按下方↓↓↓二维码识别关注
- 
-![深圳湾码农公众号二维码](https://img-blog.csdnimg.cn/20191128170404864.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FhcHBsZWg=,size_16,color_FFFFFF,t_70)
-
-
-个人微信(加我拉你进web全栈学习打卡与技术交流群)：如二维码图片不显示，可搜微信号：RHB_1223!
-![个人微信](https://img-blog.csdnimg.cn/20191214171240527.jpg)
+推荐理
