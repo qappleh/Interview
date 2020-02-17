@@ -14,29 +14,29 @@
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
 
 ## 一周汇总
->[第105题(2019-12-16)：有了解过微前端的概念吗？如果要你去设计实施微前端你会怎么做？](https://github.com/qappleh/Web-Daily-Question/issues/107)
+>[第152题(2020-02-15)：介绍冒泡排序，选择排序，冒泡排序如何优化?](https://github.com/qappleh/Web-Daily-Question/issues/154)
 
-讨论与参考答案：[第105题](https://github.com/qappleh/Web-Daily-Question/issues/107)
+讨论与参考答案：[第152题](https://github.com/qappleh/Web-Daily-Question/issues/154)
 
->[第106题(2019-12-17)：babel转换es6语法工作原理是什么？](https://github.com/qappleh/Web-Daily-Question/issues/108)
+>[第151题(2020-02-14)：koa-bodyparser怎么来解析request？](https://github.com/qappleh/Web-Daily-Question/issues/153)
 
-讨论与参考答案：[第106题](https://github.com/qappleh/Web-Daily-Question/issues/108)
+讨论与参考答案：[第151题](https://github.com/qappleh/Web-Daily-Question/issues/153)
 
->[第107题(2019-12-18)：一个TCP 连接可以发多少个 HTTP 请求?](https://github.com/qappleh/Web-Daily-Question/issues/109)
+>[第150题(2020-02-13)：koa中response.send、response.rounded、response.json发生了什么事，浏览器为什么能识别到它是一个json结构或是html？](https://github.com/qappleh/Web-Daily-Question/issues/152)
 
-讨论与参考答案：[第107题](https://github.com/qappleh/Web-Daily-Question/issues/109)
+讨论与参考答案：[第150题](https://github.com/qappleh/Web-Daily-Question/issues/152)
 
->[第108题(2019-12-19)：输入npm install 之后执行了什么操作？](https://github.com/qappleh/Web-Daily-Question/issues/110)
+>[第149题(2020-02-12)：Redux中间件是什么东西，接受几个参数（两端的柯里化函数）](https://github.com/qappleh/Web-Daily-Question/issues/151)
 
-讨论与参考答案：[第108题](https://github.com/qappleh/Web-Daily-Question/issues/110)
+讨论与参考答案：[第149题](https://github.com/qappleh/Web-Daily-Question/issues/151)
 
->[第109题(2019-12-20)：面试官：你使用过哪些前端异常处理方式？](https://github.com/qappleh/Web-Daily-Question/issues/111)
+>[第148题(2020-02-11)：key主要是解决哪一类的问题，为什么不建议用索引index（重绘）](https://github.com/qappleh/Web-Daily-Question/issues/150)
 
-讨论与参考答案：[第109题](https://github.com/qappleh/Web-Daily-Question/issues/111)
+讨论与参考答案：[第148题](https://github.com/qappleh/Web-Daily-Question/issues/150)
 
->[第110题(2019-12-21)：聊聊前端模块化方案及import、require、export、module.exports 的区别？](https://github.com/qappleh/Web-Daily-Question/issues/112)
+>[第147题(2020-02-10)：使用import时，webpack对node_modules里的依赖会做什么？](https://github.com/qappleh/Web-Daily-Question/issues/149)
 
-讨论与参考答案：[第110题](https://github.com/qappleh/Web-Daily-Question/issues/112)
+讨论与参考答案：[第147题](https://github.com/qappleh/Web-Daily-Question/issues/149)
 
 ## 名企题库  
 
