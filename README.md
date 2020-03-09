@@ -34,9 +34,6 @@
 
 讨论与参考答案：[第163题](https://github.com/qappleh/Web-Daily-Question/issues/165)
 
->[第147题(2020-02-10)：使用import时，webpack对node_modules里的依赖会做什么？](https://github.com/qappleh/Web-Daily-Question/issues/149)
-
-讨论与参考答案：[第147题](https://github.com/qappleh/Web-Daily-Question/issues/149)
 
 ## 名企题库  
 
