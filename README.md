@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第168题(2020-03-09)：instanceOf原理，手写一个instanceOf?(快手）
+> 第169题(2020-03-10)：webpack treeShaking原理，是靠什么才能实现？(字节跳动）
 
-讨论与参考答案：[第168题](https://github.com/qappleh/Web-Daily-Question/issues/170)  
+讨论与参考答案：[第169题](https://github.com/qappleh/Web-Daily-Question/issues/171)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
