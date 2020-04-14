@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第188题(2020-04-08)：能不能说说 Cookie 有哪些字段？(阿里)
+> 第192题(2020-04-14)：直接往script标签里放值和<script src="a.js">,有啥区别嘛？(美团)
 
-讨论与参考答案：[第188题](https://github.com/qappleh/Web-Daily-Question/issues/190)  
+讨论与参考答案：[第192题](https://github.com/qappleh/Web-Daily-Question/issues/194)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
