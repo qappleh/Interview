@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第204题(2020-04-29)：场景题：保证浏览器不受脚本的恶意攻击?(阿里）
+> 第207题(2020-05-07)：http缓存是怎样的?etag和last modify分别什么优点缺点，适合什么场景(描述、举例）
 
-讨论与参考答案：[第204题](https://github.com/qappleh/Web-Daily-Question/issues/206)  
+讨论与参考答案：[第207题](https://github.com/qappleh/Web-Daily-Question/issues/209)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
