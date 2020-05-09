@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第208题(2020-05-08)：项目中有用到过单元测试、e2e测试吗？它们的区别是什么？
+> 第209题(2020-05-09)：class 组件与函数式组件的区别?(拼多多）
 
-讨论与参考答案：[第208题](https://github.com/qappleh/Web-Daily-Question/issues/210)  
+讨论与参考答案：[第209题](https://github.com/qappleh/Web-Daily-Question/issues/211)  
 
 ## 我也要出题：
 >把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
