@@ -10,8 +10,6 @@
 
 讨论与参考答案：[第210题](https://github.com/qappleh/Web-Daily-Question/issues/212)  
 
-## 我也要出题：
->把你出的题目及参考答案发到我的个人邮箱ruanhongbiao@vip.qq.com即可。
 
 ## 一周汇总
 >[第204题(2020-04-29)：场景题：保证浏览器不受脚本的恶意攻击?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/206)
@@ -144,17 +142,11 @@
  
  [分享 10 道 Nodejs 进程相关面试题](http://suo.im/6qA7EH)
  
- ## 掘金专栏原创文
- [你需掌握的CSS知识都在这了（长文建议收藏，文末有福利）](https://juejin.im/post/5d8336d2f265da03df5f4a06)  
- 
- [【吐血整理】强烈推荐 GitHub 上值得学习的开源实战项目(持续更新中，长文建议收藏)](https://juejin.im/post/5df9fe6be51d45583c1cc3f7)  
  
 
 ## 联系我
-推荐全栈程序员必备微信号 
-▼
+想加入前端交流群，跟诸多一线大厂的大佬交流学习，先进入深圳湾码农公众号👉发送“2”加我微信，我拉你入群
 
-深圳湾码农
-微信号：ydhlwnxs
+欢迎关注公众号：深圳湾码农，你的成长我们一起见证！
 
-推荐理
+
