@@ -12,25 +12,21 @@
 
 
 ## 一周汇总
->[第204题(2020-04-29)：场景题：保证浏览器不受脚本的恶意攻击?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/206)
+>[第209题(2020-05-09)：class 组件与函数式组件的区别?(拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/211)
 
-讨论与参考答案：[第204题](https://github.com/qappleh/Web-Daily-Question/issues/206)
+讨论与参考答案：[第209题](https://github.com/qappleh/Web-Daily-Question/issues/211)
 
->[第203题(2020-04-28)：响应式背后的浏览器原理你知道吗？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/205)
+>[第208题(2020-05-08)：项目中有用到过单元测试、e2e测试吗？它们的区别是什么？](https://github.com/qappleh/Web-Daily-Question/issues/210)
 
-讨论与参考答案：[第203题](https://github.com/qappleh/Web-Daily-Question/issues/205)
+讨论与参考答案：[第208题](https://github.com/qappleh/Web-Daily-Question/issues/210)
 
->[第202题(2020-04-27)：dom树和cssom树原理是什么？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/204)
+>[第207题(2020-05-07)：http缓存是怎样的?etag和last modify分别什么优点缺点，适合什么场景(描述、举例）](https://github.com/qappleh/Web-Daily-Question/issues/209)
 
-讨论与参考答案：[第204题](https://github.com/qappleh/Web-Daily-Question/issues/204)
+讨论与参考答案：[第207题](https://github.com/qappleh/Web-Daily-Question/issues/209)
 
->[第201题(2020-04-26)：说说async和await的es5实现?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/203)
+>[第206题(2020-05-06)：http2为什么快，多了什么特性，头部压缩算法是怎样?](https://github.com/qappleh/Web-Daily-Question/issues/208)
 
-讨论与参考答案：[第201题](https://github.com/qappleh/Web-Daily-Question/issues/203)
-
->[第200题(2020-04-24)：Docker 分层是什么，怎么做？（伴鱼）](https://github.com/qappleh/Web-Daily-Question/issues/202)
-
-讨论与参考答案：[第200题](https://github.com/qappleh/Web-Daily-Question/issues/202)
+讨论与参考答案：[第206题](https://github.com/qappleh/Web-Daily-Question/issues/208)
 
 
 ## 名企题库  
@@ -64,15 +60,51 @@
 
 ### 阿里  
 
-
 [第16题(2019-08-12)：模拟 localStorage 时如何实现过期时间功能](https://github.com/qappleh/Web-Daily-Question/issues/11) 
 
 [第63题(2019-10-22)：求多个数组之间的交集(算法题）](https://github.com/qappleh/Web-Daily-Question/issues/65) 
 
+[第121题(2020-01-04)：谈谈Service Worker的生命周期、注册时机和作用？(阿里有赞)](https://github.com/qappleh/Web-Daily-Question/issues/123) 
+
+[第161题(2020-02-27)：gzip压缩的原理是什么？](https://github.com/qappleh/Web-Daily-Question/issues/163) 
+
+[第162题(2020-02-28)：CSRF、SSRF和XSS的区别是什么？](https://github.com/qappleh/Web-Daily-Question/issues/164) 
+
+[第163题(2020-03-02)：Cookie中的httponly的属性和作用？](https://github.com/qappleh/Web-Daily-Question/issues/165) 
+
+[第164题(2020-03-03)：HTTP报文结构，请求头有啥，响应头有啥？](https://github.com/qappleh/Web-Daily-Question/issues/166) 
+
+[第165题(2020-03-04)：JWT(JSON Web Token)的原理是什么？](https://github.com/qappleh/Web-Daily-Question/issues/167) 
+
+[第166题(2020-03-05)：数据库的内连接和外连接有什么区别?](https://github.com/qappleh/Web-Daily-Question/issues/168) 
+
+[第183题(2020-03-31)：http缓存控制，协商缓存相关的几个头部的之间的优先级关系？](https://github.com/qappleh/Web-Daily-Question/issues/185)
+
+[第184题(2020-04-01)：如果让你搭建一套前端监控方案，具体思路？](https://github.com/qappleh/Web-Daily-Question/issues/186)
+
+[第188题(2020-04-08)：能不能说说 Cookie 有哪些字段？](https://github.com/qappleh/Web-Daily-Question/issues/190)
+
+[第194题(2020-04-16)：如何删除一个 cookie?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/196)
+
+[第195题(2020-04-17)：WeakMap 和 Map 的性能有什么差别?](https://github.com/qappleh/Web-Daily-Question/issues/197)
+
+[第201题(2020-04-26)：说说async和await的es5实现?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/203)
+
+[第202题(2020-04-27)：dom树和cssom树原理是什么？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/204)
+
+[第203题(2020-04-28)：响应式背后的浏览器原理你知道吗？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/205)
+
+[第204题(2020-04-29)：场景题：保证浏览器不受脚本的恶意攻击?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/206)
+
+[第205题(2020-04-30)：假如说你的富文本编辑器内部要显示脚本，该怎么办呢？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/207)
+
+[第210题(2020-05-11)：react 与 vue 数组中 key 的作用是什么?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/212)
+
 ### 百度  
 
+[第64题(2019-10-23)：将'10000000000'形式的字符串，以每3位进行分隔展示'10.000.000.000',多种实现方式](https://github.com/qappleh/Web-Daily-Question/issues/66)  
 
-[第64题(2019-10-23)：将'10000000000'形式的字符串，以每3位进行分隔展示'10.000.000.000',多种实现方式](https://github.com/qappleh/Web-Daily-Question/issues/66)   
+[第119题(2020-1-02)：coding: 查找根节点到目标节点的路径(百度）](https://github.com/qappleh/Web-Daily-Question/issues/121)   
 
 
 ### 京东  
@@ -95,6 +127,68 @@
 [第50题(2019-09-29)：已知如下对象，请基于es6的proxy方法设计一个属性拦截读取操作的例子，要求实现去访问目标对象example中不存在的属性时，抛出错误：Property "$(property)" does not exist](https://github.com/qappleh/Web-Daily-Question/issues/52)    
 
 [第51题(2019-09-30)：给出如下虚拟dom的数据结构，如何实现简单的虚拟dom，渲染到目标dom树 ](https://github.com/qappleh/Web-Daily-Question/issues/53)    
+
+[第128题(2020-01-14)：websocket 和 TCP Socket的区别，websocket 的握手过程，为什么要基于 HTTP 请求来握手?(字节跳动)](https://github.com/qappleh/Web-Daily-Question/issues/130)    
+
+[第131题(2020-01-17)：编程题：Promise 调度相关，JS 实现一个带并发限制的异步调度器 Scheduler，保证同时运行的任务最多有两个(字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/133)   
+
+[第132题(2020-01-20)：js new一个对象发生了什么？](https://github.com/qappleh/Web-Daily-Question/issues/134)   
+
+[第133题(2020-01-21)：TCP、UDP区别？](https://github.com/qappleh/Web-Daily-Question/issues/135)  
+
+[第134题(2020-01-22)：React16新特性？](https://github.com/qappleh/Web-Daily-Question/issues/136)  
+
+[第135题(2020-01-23)：讲讲vue diff的过程？](https://github.com/qappleh/Web-Daily-Question/issues/137) 
+
+[第136题(2020-01-24)：说一下类数组，数据结构是怎么样的，怎么转换为数组？](https://github.com/qappleh/Web-Daily-Question/issues/138) 
+
+[第137题(2020-01-27)：实现一个类，可以on,emit,off,once，注册、调用、取消、注册仅能使用一次的事件？](https://github.com/qappleh/Web-Daily-Question/issues/139) 
+
+[第138题(2020-01-28)：文件上传如何实现？，除了input还有什么别的方法？](https://github.com/qappleh/Web-Daily-Question/issues/140) 
+
+[第139题(2020-01-29)：浏览器如何预览图片，假设我要上传图片，未上传前我想在浏览器看到我待上传的图片？](https://github.com/qappleh/Web-Daily-Question/issues/141) 
+
+[第140题(2020-01-30)：base64 前端如何转化？](https://github.com/qappleh/Web-Daily-Question/issues/142) 
+
+[第141题(2020-01-31)：假设有130个苹果，你我轮流拿，每次可拿1-5个，如何保证你拿到最后一个苹果？](https://github.com/qappleh/Web-Daily-Question/issues/143) 
+
+[第142题(2020-02-03)：fetch为什么会发送2次请求？](https://github.com/qappleh/Web-Daily-Question/issues/144) 
+
+[第167题(2020-03-06)：nodejs从接收到请求到返回给页面经历了什么？](https://github.com/qappleh/Web-Daily-Question/issues/169) 
+
+[第169题(2020-03-10)：webpack treeShaking原理，是靠什么才能实现？(字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/171)
+
+[第170题(2020-03-11)：typeof 的原理，与 instanceOf 、 Object.prototype.toString.call() 的区别](https://github.com/qappleh/Web-Daily-Question/issues/172)
+
+[第171题(2020-03-12)：react 哪些生命周期可以 setState？](https://github.com/qappleh/Web-Daily-Question/issues/173)
+
+[第172题(2020-03-13)：提供一个 VDOM 对象，写一个 render 函数来让他变成一颗 DOM 树](https://github.com/qappleh/Web-Daily-Question/issues/174)
+
+[第173题(2020-03-16)：0.1 + 0.2 === 0.3 吗？ 为什么？](https://github.com/qappleh/Web-Daily-Question/issues/175)
+
+[第174题(2020-03-17)：实现一个算法，来完成字符串相加，比如 "111" + ”2222“ = ”2333“。(高精度算法)](https://github.com/qappleh/Web-Daily-Question/issues/176)
+
+[第175题(2020-03-19)：v8引擎 如何执行 js 代码？](https://github.com/qappleh/Web-Daily-Question/issues/177)
+
+[第176题(2020-03-20)：AST 以及 AST 有啥应用？](https://github.com/qappleh/Web-Daily-Question/issues/178)
+
+[第177题(2020-03-23)：DNS 查询的过程，分为哪两种，是怎么一个过程？](https://github.com/qappleh/Web-Daily-Question/issues/179)
+
+[第178题(2020-03-24)：如果你发现有个网站你突然打不开了，有哪些可能？](https://github.com/qappleh/Web-Daily-Question/issues/180)
+
+[第179题(2020-03-25)：有一个有序递增序列，求有多少个不同的数字。比如 [1, 5, 7, 7, 8, 9, 9]。里面总共有5个不同的数字:1, 5, 7, 8, 9](https://github.com/qappleh/Web-Daily-Question/issues/181)
+
+[第182题(2020-03-30)： vue computed 属性为什么能够在依赖改变的时候，自己发生变化？](https://github.com/qappleh/Web-Daily-Question/issues/183)
+
+[第185题(2020-04-02)：能不能说说 Cookie 有哪些字段？](https://github.com/qappleh/Web-Daily-Question/issues/187)
+
+[第186题(2020-04-03)：能不能介绍一下 Vuex 的 Mutation 和 Action 的区别吗？](https://github.com/qappleh/Web-Daily-Question/issues/188)
+
+[第187题(2020-04-07)：进程和线程的区别及进程之间是怎么通信的？](https://github.com/qappleh/Web-Daily-Question/issues/189)
+
+[第196题(2020-04-20)：对于vue History 路由而言，你觉得在服务端是如何做路由分发的呢？](https://github.com/qappleh/Web-Daily-Question/issues/198)
+
+[第208题(2020-05-08)：项目中有用到过单元测试、e2e测试吗？它们的区别是什么？](https://github.com/qappleh/Web-Daily-Question/issues/210)
 
 
 ### 平安/盛大/携程/虾皮/快手/蘑菇街
