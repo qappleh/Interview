@@ -329,6 +329,22 @@
  
  [分享 10 道 Nodejs 进程相关面试题](http://suo.im/6qA7EH)
  
+ [一年半，三本，收到30K+的offer，你也可以](http://suo.im/5D4Kdc)
+ 
+ [一位00后前端2年经验的成长历程](http://suo.im/6eK0nS)
+ 
+ [75个JavaScript面试题集锦，内含解答，自测 JS 掌握程度](http://suo.im/5YX0UV)
+ 
+ [offer收割机: 字节跳动、YY、虎牙、BIGO](http://suo.im/5vz1xv)
+ 
+ [阿里盒马,腾讯小程序团队--小菜鸡自闭の面经](http://suo.im/5D5eI0)
+ 
+ [面试阿里前端专家要准备哪些技术知识（已拿 offer）](http://suo.im/5vz1Y7)
+ 
+ [阿里大佬手把手教你轻松拿到阿里offer](http://suo.im/5Rrfk6)
+ 
+ [记美国面试经验，前端开发，提前预告，目前已经进背调了](http://suo.im/6eKvpK)
+ 
  
 
 ## 联系我
