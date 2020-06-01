@@ -69,6 +69,26 @@
 
 讨论与参考答案：[第2题](https://github.com/qappleh/Web-Daily-Question/issues/4)
 
+>[第3题(2019-07-24)：请使用原型链相关知识实现b继承n=1;c继承n=2;m=3](https://github.com/qappleh/Web-Daily-Question/issues/5)
+
+讨论与参考答案：[第3题](https://github.com/qappleh/Web-Daily-Question/issues/5)
+
+>[第4题(2019-07-25) 以下代码输出什么？](https://github.com/qappleh/Web-Daily-Question/issues/6)
+
+讨论与参考答案：[第4题](https://github.com/qappleh/Web-Daily-Question/issues/6)
+
+>[第5题(2019-07-26) 已知以下数组： 编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序并且不重复的数组 ](https://github.com/qappleh/Web-Daily-Question/issues/7)
+
+讨论与参考答案：[第5题](https://github.com/qappleh/Web-Daily-Question/issues/7)
+
+>[第6题(2019-07-29)：实现一个函数add,满足下列输出结果](https://github.com/qappleh/Web-Daily-Question/issues/8)
+
+讨论与参考答案：[第6题](https://github.com/qappleh/Web-Daily-Question/issues/8)
+
+>[第7题(2019-07-30)：以下代码会输出什么？](https://github.com/qappleh/Web-Daily-Question/issues/9)
+
+讨论与参考答案：[第7题](https://github.com/qappleh/Web-Daily-Question/issues/9)
+
 >[第10题(2019-08-02)：输出以下代码运行结果](https://github.com/qappleh/Web-Daily-Question/issues/12)
 
 讨论与参考答案：[第10题](https://github.com/qappleh/Web-Daily-Question/issues/12)
@@ -105,8 +125,317 @@
 
 讨论与参考答案：[第22题](https://github.com/qappleh/Web-Daily-Question/issues/24)
 
+>[第23题(2019-08-21)：介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景 ](https://github.com/qappleh/Web-Daily-Question/issues/25)
 
+讨论与参考答案：[第23题](https://github.com/qappleh/Web-Daily-Question/issues/25)
 
+>[第25题(2019-08-23)：有以下 3 个判断数组的方法，Object.prototype.toString.call() 、 instanceof 以及 Array.isArray()，请分别介绍它们之间的区别和优劣](https://github.com/qappleh/Web-Daily-Question/issues/27)
+
+讨论与参考答案：[第25题](https://github.com/qappleh/Web-Daily-Question/issues/27)
+
+>[第26题(2019-08-26)：输出以下代码执行结果](https://github.com/qappleh/Web-Daily-Question/issues/28)
+
+讨论与参考答案：[第26题](https://github.com/qappleh/Web-Daily-Question/issues/28)
+
+>[第29题(2019-08-29)：什么是防抖和节流？有什么区别？如何实现？](https://github.com/qappleh/Web-Daily-Question/issues/31)
+
+讨论与参考答案：[第29题](https://github.com/qappleh/Web-Daily-Question/issues/31)
+
+>[第30题(2019-08-30)：如何将 [{id: 1}, {id: 2, pId: 1}, ...] 的重复数组（有重复数据）转成树形结构的数组 [{id: 1, child: [{id: 2, pId: 1}]}, ...] （需要去重）](https://github.com/qappleh/Web-Daily-Question/issues/32)
+
+讨论与参考答案：[第30题](https://github.com/qappleh/Web-Daily-Question/issues/32)
+
+>[第31题(2019-09-02)：介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/qappleh/Web-Daily-Question/issues/33)
+
+讨论与参考答案：[第31题](https://github.com/qappleh/Web-Daily-Question/issues/33)
+
+>[第32题(2019-09-03)：考察作用域的一道代码题](https://github.com/qappleh/Web-Daily-Question/issues/34)
+
+讨论与参考答案：[第32题](https://github.com/qappleh/Web-Daily-Question/issues/34)
+
+>[第34题(2019-09-05)：请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]，合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](https://github.com/qappleh/Web-Daily-Question/issues/36)
+
+讨论与参考答案：[第34题](https://github.com/qappleh/Web-Daily-Question/issues/36)
+
+>[第35题(2019-09-06)：使用迭代的方式实现 flatten 函数](https://github.com/qappleh/Web-Daily-Question/issues/37)
+
+讨论与参考答案：[第35题](https://github.com/qappleh/Web-Daily-Question/issues/37)
+
+>[第36题(2019-09-09)：改造下面的代码，使之输出0 - 9，写出你能想到的所有解法](https://github.com/qappleh/Web-Daily-Question/issues/38)
+
+讨论与参考答案：[第36题](https://github.com/qappleh/Web-Daily-Question/issues/38)
+
+>[第52题(2019-10-08)：谈谈你对事件委托(代理)的理解及它们的使用场景](https://github.com/qappleh/Web-Daily-Question/issues/54)
+
+讨论与参考答案：[第52题](https://github.com/qappleh/Web-Daily-Question/issues/54)
+
+>[第53题(2019-10-09)：谈谈你对闭包的理解、优缺点及使用场景](https://github.com/qappleh/Web-Daily-Question/issues/55)
+
+讨论与参考答案：[第53题](https://github.com/qappleh/Web-Daily-Question/issues/55)
+
+>[第54题(2019-10-10)：实现一个函数clone，可以对JavaScript中的5种主要的数据类型（包括Number、String、Object、Array、Boolean）进行值复制 ](https://github.com/qappleh/Web-Daily-Question/issues/56)
+
+讨论与参考答案：[第54题](https://github.com/qappleh/Web-Daily-Question/issues/56)
+
+>[第55题(2019-10-11)：在Javascript中什么是伪数组？如何将伪数组转化为标准数组？](https://github.com/qappleh/Web-Daily-Question/issues/57)
+
+讨论与参考答案：[第55题](https://github.com/qappleh/Web-Daily-Question/issues/57)
+
+>[第56题(2019-10-12)：对作用域上下文和this的理解，看下列代码：](https://github.com/qappleh/Web-Daily-Question/issues/58)
+
+讨论与参考答案：[第56题](https://github.com/qappleh/Web-Daily-Question/issues/58)
+
+>[第57题(2019-10-14)：编写一个 JavaScript 函数，输入指定类型的选择器 ( 仅需支持 id ， class ，tagName 三种简单 CSS 选择器，无需兼容组合选择器 ) 可以返回匹配的 DOM 节点，需考虑浏览器兼容性和性能。](https://github.com/qappleh/Web-Daily-Question/issues/59)
+
+讨论与参考答案：[第57题](https://github.com/qappleh/Web-Daily-Question/issues/59)
+
+>[第58题(2019-10-15)：定义一个log方法，让它可以代理console.log的方法](https://github.com/qappleh/Web-Daily-Question/issues/60)
+
+讨论与参考答案：[第58题](https://github.com/qappleh/Web-Daily-Question/issues/60)
+
+>[第59题(2019-10-16)：为了保证页面输出安全，我们经常需要对一些特殊的字符进行转义，请写一个函数escapeHtml，将<, >, &, “进行转义](https://github.com/qappleh/Web-Daily-Question/issues/61)
+
+讨论与参考答案：[第59题](https://github.com/qappleh/Web-Daily-Question/issues/61)
+
+>[第74题(2019-11-05)：深拷贝和浅拷贝的实现方式分别有哪些？(常问经典题）](https://github.com/qappleh/Web-Daily-Question/issues/76)
+
+讨论与参考答案：[第74题](https://github.com/qappleh/Web-Daily-Question/issues/76)
+
+>[第82题(2019-11-14)： 什么是 IIFE (立即调用的函数表达式)](https://github.com/qappleh/Web-Daily-Question/issues/84)
+
+讨论与参考答案：[第82题](https://github.com/qappleh/Web-Daily-Question/issues/84)
+
+>[第83题(2019-11-15)： .call 和 .apply 区别是啥？](https://github.com/qappleh/Web-Daily-Question/issues/85)
+
+讨论与参考答案：[第83题](https://github.com/qappleh/Web-Daily-Question/issues/85)
+
+>[第84题(2019-11-18)： 如何在 JS 中“深冻结”对象](https://github.com/qappleh/Web-Daily-Question/issues/86)
+
+讨论与参考答案：[第84题](https://github.com/qappleh/Web-Daily-Question/issues/86)
+
+>[第89题(2019-11-25)： 使用 ECMAScript（JS）代码实现一个事件类Event，包含下面功能：绑定事件、解绑事件和派发事件](https://github.com/qappleh/Web-Daily-Question/issues/91)
+
+讨论与参考答案：[第89题](https://github.com/qappleh/Web-Daily-Question/issues/91)
+
+>[第93题(2019-11-29)：ES6 class 和普通构造函数的区别？](https://github.com/qappleh/Web-Daily-Question/issues/95)
+
+讨论与参考答案：[第93题](https://github.com/qappleh/Web-Daily-Question/issues/95)
+
+>[第100题(2019-12-10)：谈谈你对OAuth2.0 原理流程的理解及运用？](https://github.com/qappleh/Web-Daily-Question/issues/102)
+
+讨论与参考答案：[第100题](https://github.com/qappleh/Web-Daily-Question/issues/102)
+
+>[第102题(2019-12-12)：了解过PWA吗？它的离线缓存原理是什么？](https://github.com/qappleh/Web-Daily-Question/issues/104)
+
+讨论与参考答案：[第102题](https://github.com/qappleh/Web-Daily-Question/issues/104)
+
+>[第106题(2019-12-17)：babel转换es6语法工作原理是什么？](https://github.com/qappleh/Web-Daily-Question/issues/108)
+
+讨论与参考答案：[第106题](https://github.com/qappleh/Web-Daily-Question/issues/108)
+
+>[第109题(2019-12-20)：面试官：你使用过哪些前端异常处理方式？](https://github.com/qappleh/Web-Daily-Question/issues/111)
+
+讨论与参考答案：[第109题](https://github.com/qappleh/Web-Daily-Question/issues/111)
+
+>[第110题(2019-12-21)：聊聊前端模块化方案及import、require、export、module.exports 的区别？](https://github.com/qappleh/Web-Daily-Question/issues/112)
+
+讨论与参考答案：[第110题](https://github.com/qappleh/Web-Daily-Question/issues/112)
+
+>[第111题(2019-12-23)：写出一个数组展开函数, 如输入：[1,[2,[3,4,2],2],5,[6]], 则输出：[1,2,3,4,2,2,5,6]](https://github.com/qappleh/Web-Daily-Question/issues/113)
+
+讨论与参考答案：[第111题](https://github.com/qappleh/Web-Daily-Question/issues/113)
+
+>[第115题(2019-12-27)：请输出以下代码的执行结果?](https://github.com/qappleh/Web-Daily-Question/issues/117)
+
+讨论与参考答案：[第115题](https://github.com/qappleh/Web-Daily-Question/issues/117)
+
+>[第118题(2019-12-31)：编程题：将一个对象中所有值为字符串的提出取出来，拼接成大的字符串 ](https://github.com/qappleh/Web-Daily-Question/issues/120)
+
+讨论与参考答案：[第118题](https://github.com/qappleh/Web-Daily-Question/issues/120)
+
+>[第120题(2020-01-03)：编程题：有一个长度为 32 的数组，如何将它转换为长度为4*8的二维数组(拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/122)
+
+讨论与参考答案：[第120题](https://github.com/qappleh/Web-Daily-Question/issues/122)
+
+>[第121题(2020-01-04)：谈谈Service Worker的生命周期、注册时机和作用？(阿里有赞)](https://github.com/qappleh/Web-Daily-Question/issues/123)
+
+讨论与参考答案：[第121题](https://github.com/qappleh/Web-Daily-Question/issues/123)
+
+>[第122题(2020-01-06)：项目中是否使用了 TypeScript，TS 中的枚举是怎样写的，如果用原生 JS 怎样实现？（拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/124)
+
+讨论与参考答案：[第122题](https://github.com/qappleh/Web-Daily-Question/issues/124)
+
+>[第130题(2020-01-16)：从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://github.com/qappleh/Web-Daily-Question/issues/132)
+
+讨论与参考答案：[第130题](https://github.com/qappleh/Web-Daily-Question/issues/132)
+
+>[第131题(2020-01-17)：编程题：Promise 调度相关，JS 实现一个带并发限制的异步调度器 Scheduler，保证同时运行的任务最多有两个(字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/133)
+
+讨论与参考答案：[第131题](https://github.com/qappleh/Web-Daily-Question/issues/133)
+
+>[第132题(2020-01-20)：js new一个对象发生了什么？](https://github.com/qappleh/Web-Daily-Question/issues/134)
+
+讨论与参考答案：[第132题](https://github.com/qappleh/Web-Daily-Question/issues/134)
+
+>[第136题(2020-01-24)：说一下类数组，数据结构是怎么样的，怎么转换为数组？](https://github.com/qappleh/Web-Daily-Question/issues/138)
+
+讨论与参考答案：[第136题](https://github.com/qappleh/Web-Daily-Question/issues/138)
+
+>[第137题(2020-01-27)：实现一个类，可以on,emit,off,once，注册、调用、取消、注册仅能使用一次的事件？](https://github.com/qappleh/Web-Daily-Question/issues/139)
+
+讨论与参考答案：[第137题](https://github.com/qappleh/Web-Daily-Question/issues/139)
+
+>[第138题(2020-01-28)：文件上传如何实现？，除了input还有什么别的方法？](https://github.com/qappleh/Web-Daily-Question/issues/140)
+
+讨论与参考答案：[第138题](https://github.com/qappleh/Web-Daily-Question/issues/140)
+
+>[第139题(2020-01-29)：浏览器如何预览图片，假设我要上传图片，未上传前我想在浏览器看到我待上传的图片？](https://github.com/qappleh/Web-Daily-Question/issues/141)
+
+讨论与参考答案：[第139题](https://github.com/qappleh/Web-Daily-Question/issues/141)
+
+>[第140题(2020-01-30)：base64 前端如何转化？](https://github.com/qappleh/Web-Daily-Question/issues/142)
+
+讨论与参考答案：[第140题](https://github.com/qappleh/Web-Daily-Question/issues/142)
+
+>[第145题(2020-02-06)：promise、async有什么区别？](https://github.com/qappleh/Web-Daily-Question/issues/147)
+
+讨论与参考答案：[第145题](https://github.com/qappleh/Web-Daily-Question/issues/147)
+
+>[第146题(2020-02-07)：介绍一下AST（Abstract Syntax Tree）抽象语法树？](https://github.com/qappleh/Web-Daily-Question/issues/148)
+
+讨论与参考答案：[第146题](https://github.com/qappleh/Web-Daily-Question/issues/148)
+
+>[第148题(2020-02-11)：key主要是解决哪一类的问题，为什么不建议用索引index（重绘）](https://github.com/qappleh/Web-Daily-Question/issues/150)
+
+讨论与参考答案：[第148题](https://github.com/qappleh/Web-Daily-Question/issues/150)
+
+>[第154题(2020-02-18)：formData和原生的ajax data有什么区别？](https://github.com/qappleh/Web-Daily-Question/issues/156)
+
+讨论与参考答案：[第154题](https://github.com/qappleh/Web-Daily-Question/issues/156)
+
+>[第157题(2020-02-21)：JS里垃圾回收机制是什么，常用的是哪种，怎么处理的？](https://github.com/qappleh/Web-Daily-Question/issues/159)
+
+讨论与参考答案：[第157题](https://github.com/qappleh/Web-Daily-Question/issues/159)
+
+>[第158题(2020-02-24)：什么是 async/await 及其如何工作？](https://github.com/qappleh/Web-Daily-Question/issues/160)
+
+讨论与参考答案：[第158题](https://github.com/qappleh/Web-Daily-Question/issues/160)
+
+>[第160题(2020-02-26)：Accept 头部的作用什么，如果服务器不支持怎么办？](https://github.com/qappleh/Web-Daily-Question/issues/162)
+
+讨论与参考答案：[第160题](https://github.com/qappleh/Web-Daily-Question/issues/162)
+
+>[第168题(2020-03-09)：instanceOf原理，手写一个instanceOf?(快手）](https://github.com/qappleh/Web-Daily-Question/issues/170)
+
+讨论与参考答案：[第168题](https://github.com/qappleh/Web-Daily-Question/issues/170)
+
+>[第170题(2020-03-11)：typeof 的原理，与 instanceOf 、 Object.prototype.toString.call() 的区别（字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/172)
+
+讨论与参考答案：[第170题](https://github.com/qappleh/Web-Daily-Question/issues/172)
+
+>[第172题(2020-03-13)：提供一个 VDOM 对象，写一个 render 函数来让他变成一颗 DOM 树（字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/174)
+
+讨论与参考答案：[第172题](https://github.com/qappleh/Web-Daily-Question/issues/174)
+
+>[第175题(2020-03-19)：v8引擎 如何执行 js 代码？（字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/177)
+
+讨论与参考答案：[第175题](https://github.com/qappleh/Web-Daily-Question/issues/177)
+
+>[第176题(2020-03-20)：AST 以及 AST 有啥应用？（字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/178)
+
+讨论与参考答案：[第176题](https://github.com/qappleh/Web-Daily-Question/issues/178)
+
+>[第180题(2020-03-26)：实现一个方法，将传入对象的下划线命名方式全部换为驼峰式(考虑递归的场景)。比如（虾皮）](https://github.com/qappleh/Web-Daily-Question/issues/182)
+
+讨论与参考答案：[第180题](https://github.com/qappleh/Web-Daily-Question/issues/182)
+
+>[第185题(2020-04-02)：能不能说说 Cookie 有哪些字段？（字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/187)
+
+讨论与参考答案：[第185题](https://github.com/qappleh/Web-Daily-Question/issues/187)
+
+>[第187题(2020-04-07)：进程和线程的区别及进程之间是怎么通信的？（字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/189)
+
+讨论与参考答案：[第187题](https://github.com/qappleh/Web-Daily-Question/issues/189)
+
+>[第188题(2020-04-08)：vue-loader 的实现原理是什么？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/190)
+
+讨论与参考答案：[第188题](https://github.com/qappleh/Web-Daily-Question/issues/190)
+
+>[第189题(2020-04-09)：为啥下面这个代码会爆栈？用setTimeout来递归实现setTimeInterve()就不会爆栈？（美团）](https://github.com/qappleh/Web-Daily-Question/issues/191)
+
+讨论与参考答案：[第189题](https://github.com/qappleh/Web-Daily-Question/issues/191)
+
+>[第191题(2020-04-13)：实现隔一段时间输出name？（美团）](https://github.com/qappleh/Web-Daily-Question/issues/193)
+
+讨论与参考答案：[第191题](https://github.com/qappleh/Web-Daily-Question/issues/193)
+
+>[第192题(2020-04-14)：直接往script标签里放值和<script src="a.js">,有啥区别嘛？（美团）](https://github.com/qappleh/Web-Daily-Question/issues/194)
+
+讨论与参考答案：[第192题](https://github.com/qappleh/Web-Daily-Question/issues/194)
+
+>[第194题(2020-04-16)：如何删除一个 cookie?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/196)
+
+讨论与参考答案：[第194题](https://github.com/qappleh/Web-Daily-Question/issues/196)
+
+>[第195题(2020-04-17)：WeakMap 和 Map 的性能有什么差别?（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/197)
+
+讨论与参考答案：[第195题](https://github.com/qappleh/Web-Daily-Question/issues/197)
+
+>[第197题(2020-04-21)：JSBridge 原理是什么？（OPPO/贝壳）](https://github.com/qappleh/Web-Daily-Question/issues/199)
+
+讨论与参考答案：[第197题](https://github.com/qappleh/Web-Daily-Question/issues/199)
+
+>[第198题(2020-04-22)：TypeScript 里有哪些 JavaScript 没有的类型?(滴滴）](https://github.com/qappleh/Web-Daily-Question/issues/200)
+
+讨论与参考答案：[第198题](https://github.com/qappleh/Web-Daily-Question/issues/200)
+
+>[第201题(2020-04-26)：说说async和await的es5实现?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/203)
+
+讨论与参考答案：[第201题](https://github.com/qappleh/Web-Daily-Question/issues/203)
+
+>[第205题(2020-04-30)：假如说你的富文本编辑器内部要显示脚本，该怎么办呢？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/207)
+
+讨论与参考答案：[第205题](https://github.com/qappleh/Web-Daily-Question/issues/207)
+
+>[第209题(2020-05-09)：class 组件与函数式组件的区别?(拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/211)
+
+讨论与参考答案：[第209题](https://github.com/qappleh/Web-Daily-Question/issues/211)
+
+>[第211题(2020-05-12)：原型，class B 继承 class A 翻译成 es5 应该是什么样子？（酷家乐）](https://github.com/qappleh/Web-Daily-Question/issues/213)
+
+讨论与参考答案：[第211题](https://github.com/qappleh/Web-Daily-Question/issues/213)
+
+>[第213题(2020-05-14)：组件库如何做按需加载？（拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/215)
+
+讨论与参考答案：[第213题](https://github.com/qappleh/Web-Daily-Question/issues/215)
+
+>[第214题(2020-05-15)：Mobx 思想的实现原理及与 Redux 对比？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/216)
+
+讨论与参考答案：[第214题](https://github.com/qappleh/Web-Daily-Question/issues/216)
+
+>[第216题(2020-05-19：map中的键值会不会被回收（weakMap，weakSet等）(腾讯）](https://github.com/qappleh/Web-Daily-Question/issues/218)
+
+讨论与参考答案：[第216题](https://github.com/qappleh/Web-Daily-Question/issues/218)
+
+>[第219题(2020-05-22)：实现一个 fill 函数，不能用循环（酷家乐）](https://github.com/qappleh/Web-Daily-Question/issues/221)
+
+讨论与参考答案：[第219题](https://github.com/qappleh/Web-Daily-Question/issues/221)
+
+>[第221题(2020-05-26)：说出所有你知道的合并两个数组方法?(拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/223)
+
+讨论与参考答案：[第221题](https://github.com/qappleh/Web-Daily-Question/issues/223)
+
+>[第222题(2020-05-27)：说出所有你知道的合并两个对象方法?(拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/224)
+
+讨论与参考答案：[第222题](https://github.com/qappleh/Web-Daily-Question/issues/224)
+
+>[第224题(2020-05-29)：垃圾回收中的堆和栈的区别?（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/226)
+
+讨论与参考答案：[第224题](https://github.com/qappleh/Web-Daily-Question/issues/226)
+
+>[第225题(2020-06-01)：view 层、js 层分别在哪里、怎么通信 ?（阿里蚂蚁）](https://github.com/qappleh/Web-Daily-Question/issues/227)
+
+讨论与参考答案：[第225题](https://github.com/qappleh/Web-Daily-Question/issues/227)
 
 
 ## 名企题库  
