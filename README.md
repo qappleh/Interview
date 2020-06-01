@@ -438,6 +438,477 @@
 讨论与参考答案：[第225题](https://github.com/qappleh/Web-Daily-Question/issues/227)
 
 
+###Vue
+
+>[第21题(2019-08-19)：vue 是如何对数组方法进行变异的？例如 push、pop、splice 等方法](https://github.com/qappleh/Web-Daily-Question/issues/23)
+
+讨论与参考答案：[第21题](https://github.com/qappleh/Web-Daily-Question/issues/23)
+
+>[第41题(2019-09-17)：vue 如何优化首页的加载速度？vue 首页白屏是什么问题引起的？如何解决呢？](https://github.com/qappleh/Web-Daily-Question/issues/43)
+
+讨论与参考答案：[第41题](https://github.com/qappleh/Web-Daily-Question/issues/43)
+
+>[第61题(2019-10-18)：谈一谈 nextTick 的原理](https://github.com/qappleh/Web-Daily-Question/issues/63)
+
+讨论与参考答案：[第61题](https://github.com/qappleh/Web-Daily-Question/issues/63)
+
+>[第94题(2019-12-02)：vue从data改变到页面渲染的过程？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/96)
+
+讨论与参考答案：[第94题](https://github.com/qappleh/Web-Daily-Question/issues/96)
+
+>[第95题(2019-12-03)：谈谈你对Virtual DOM 的内部工作原理的理解？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/97)
+
+讨论与参考答案：[第95题](https://github.com/qappleh/Web-Daily-Question/issues/97)
+
+>[第98题(2019-12-06)：有读过Vuex的源码吗？如果要你自己设计一个状态管理库你会怎么去设计？(腾讯)](https://github.com/qappleh/Web-Daily-Question/issues/100)
+
+讨论与参考答案：[第98题](https://github.com/qappleh/Web-Daily-Question/issues/100)
+
+>[第116题(2019-12-28)：vue-router 的原理，history 模式和 hash 模式的区别，为什么 history 模式是先进行 app 内模块的切换再去手动更新路由？（微众银行）](https://github.com/qappleh/Web-Daily-Question/issues/118)
+
+讨论与参考答案：[第116题](https://github.com/qappleh/Web-Daily-Question/issues/118)
+
+>[第123题(2020-01-07)：谈谈Vue3 proxy 优缺点（哔哩哔哩/猫眼电影）](https://github.com/qappleh/Web-Daily-Question/issues/125)
+
+讨论与参考答案：[第123题](https://github.com/qappleh/Web-Daily-Question/issues/125)
+
+>[第124题(2020-01-08)：vue 的 nextTick 实现原理以及应用场景(英语流利说）](https://github.com/qappleh/Web-Daily-Question/issues/126)
+
+讨论与参考答案：[第124题](https://github.com/qappleh/Web-Daily-Question/issues/126)
+
+>[第126题(2020-01-10)：聊聊 keep-alive 的实现原理和缓存策略？](https://github.com/qappleh/Web-Daily-Question/issues/128)
+
+讨论与参考答案：[第126题](https://github.com/qappleh/Web-Daily-Question/issues/128)
+
+>[第135题(2020-01-23)：讲讲vue diff的过程？（字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/137)
+
+讨论与参考答案：[第135题](https://github.com/qappleh/Web-Daily-Question/issues/137)
+
+>[第182题(2020-03-30)： vue computed 属性为什么能够在依赖改变的时候，自己发生变化？（字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/184)
+
+讨论与参考答案：[第182题](https://github.com/qappleh/Web-Daily-Question/issues/184)
+
+>[第186题(2020-04-03)：能不能介绍一下 Vuex 的 Mutation 和 Action 的区别吗？（字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/188)
+
+讨论与参考答案：[第186题](https://github.com/qappleh/Web-Daily-Question/issues/188)
+
+>[第196题(2020-04-20)：对于vue History 路由而言，你觉得在服务端是如何做路由分发的呢？（字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/198)
+
+讨论与参考答案：[第196题](https://github.com/qappleh/Web-Daily-Question/issues/198)
+
+>[第210题(2020-05-11)：react 与 vue 数组中 key 的作用是什么?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/212)
+
+讨论与参考答案：[第210题](https://github.com/qappleh/Web-Daily-Question/issues/212)
+
+>[第218题(2020-05-21)：vue3 的 类似 hooks 的原理是怎么样的？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/220)
+
+讨论与参考答案：[第218题](https://github.com/qappleh/Web-Daily-Question/issues/220)
+
+>[第223题(2020-05-28)：Vue3.0都有哪些重要新特性？对比Vue2.0的优势在哪？（360）](https://github.com/qappleh/Web-Daily-Question/issues/225)
+
+讨论与参考答案：[第223题](https://github.com/qappleh/Web-Daily-Question/issues/225)
+
+
+###react
+
+>[第125题(2020-01-09)：React Hooks 解决了什么问题，如何用 Hooks 的方法去模拟 Class Components 的功能(拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/127)
+
+讨论与参考答案：[第125题](https://github.com/qappleh/Web-Daily-Question/issues/127)
+
+>[第134题(2020-01-22)：React16新特性？](https://github.com/qappleh/Web-Daily-Question/issues/136)
+
+讨论与参考答案：[第134题](https://github.com/qappleh/Web-Daily-Question/issues/136)
+
+>[第144题(2020-02-05)：React组件中怎么做事件代理及代理原理？](https://github.com/qappleh/Web-Daily-Question/issues/146)
+
+讨论与参考答案：[第144题](https://github.com/qappleh/Web-Daily-Question/issues/146)
+
+>[第149题(2020-02-12)：Redux中间件是什么东西，接受几个参数（两端的柯里化函数）](https://github.com/qappleh/Web-Daily-Question/issues/151)
+
+讨论与参考答案：[第149题](https://github.com/qappleh/Web-Daily-Question/issues/151)
+
+>[第156题(2020-02-20)：React中Dom结构发生变化后内部经历了哪些变化?](https://github.com/qappleh/Web-Daily-Question/issues/158)
+
+讨论与参考答案：[第156题](https://github.com/qappleh/Web-Daily-Question/issues/158)
+
+>[第171题(2020-03-12)：react 哪些生命周期可以 setState？](https://github.com/qappleh/Web-Daily-Question/issues/173)
+
+讨论与参考答案：[第171题](https://github.com/qappleh/Web-Daily-Question/issues/173)
+
+>[第210题(2020-05-11)：react 与 vue 数组中 key 的作用是什么?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/212)
+
+讨论与参考答案：[第210题](https://github.com/qappleh/Web-Daily-Question/issues/212)
+
+
+###Node
+
+>[第65题(2019-10-24)：node中进程和线程区别是什么？说的越详细越深入越好！](https://github.com/qappleh/Web-Daily-Question/issues/67)
+
+讨论与参考答案：[第65题](https://github.com/qappleh/Web-Daily-Question/issues/67)
+
+
+>[第66题(2019-10-25)：请介绍一下Node事件循环的流程](https://github.com/qappleh/Web-Daily-Question/issues/68)
+
+讨论与参考答案：[第66题](https://github.com/qappleh/Web-Daily-Question/issues/68)
+
+
+>[第67题(2019-10-26)：V8的内存分代和回收算法请简单讲一讲](https://github.com/qappleh/Web-Daily-Question/issues/69)
+
+讨论与参考答案：[第67题](https://github.com/qappleh/Web-Daily-Question/issues/69)
+
+
+>[第68题(2019-10-28)：请谈一下内存泄漏是什么，以及常见内存泄漏的原因，和排查的方法](https://github.com/qappleh/Web-Daily-Question/issues/70)
+
+讨论与参考答案：[第68题](https://github.com/qappleh/Web-Daily-Question/issues/70)
+
+
+>[第69题(2019-10-29)：https身份验证过程中会涉及到密钥， 对称加密，非对称加密，摘要的概念，请解释一下](https://github.com/qappleh/Web-Daily-Question/issues/71)
+
+讨论与参考答案：[第69题](https://github.com/qappleh/Web-Daily-Question/issues/71)
+
+
+>[第70题(2019-10-30)：请简述一下node的多进程架构](https://github.com/qappleh/Web-Daily-Question/issues/72)
+
+讨论与参考答案：[第70题](https://github.com/qappleh/Web-Daily-Question/issues/72)
+
+
+>[第71题(2019-10-31)：如果使用过koa、egg这两个Node框架，请简述其中的中间件原理，最好用代码表示一下](https://github.com/qappleh/Web-Daily-Question/issues/73)
+
+讨论与参考答案：[第71题](https://github.com/qappleh/Web-Daily-Question/issues/73)
+
+
+>[第72题(2019-11-01)：请问创建子进程的方法有哪些，简单说一下它们的区别 ](https://github.com/qappleh/Web-Daily-Question/issues/74)
+
+讨论与参考答案：[第72题](https://github.com/qappleh/Web-Daily-Question/issues/74)
+
+
+>[第101题(2019-12-11)：组件设计的原则是什么，有开发过npm库发布到npm市场吗？](https://github.com/qappleh/Web-Daily-Question/issues/103)
+
+讨论与参考答案：[第101题](https://github.com/qappleh/Web-Daily-Question/issues/103)
+
+
+>[第108题(2019-12-19)：输入npm install 之后执行了什么操作？](https://github.com/qappleh/Web-Daily-Question/issues/110)
+
+讨论与参考答案：[第108题](https://github.com/qappleh/Web-Daily-Question/issues/110)
+
+
+>[第143题(2020-02-04)：如何在Node端配置路径别名（类似于Webpack中的alias配置）](https://github.com/qappleh/Web-Daily-Question/issues/145)
+
+讨论与参考答案：[第143题](https://github.com/qappleh/Web-Daily-Question/issues/145)
+
+
+>[第150题(2020-02-13)：koa中response.send、response.rounded、response.json发生了什么事，浏览器为什么能识别到它是一个json结构或是html？](https://github.com/qappleh/Web-Daily-Question/issues/152)
+
+讨论与参考答案：[第150题](https://github.com/qappleh/Web-Daily-Question/issues/152)
+
+
+>[第151题(2020-02-14)：koa-bodyparser怎么来解析request？](https://github.com/qappleh/Web-Daily-Question/issues/153)
+
+讨论与参考答案：[第151题](https://github.com/qappleh/Web-Daily-Question/issues/153)
+
+
+>[第153题(2020-02-17)：pm2怎么做进程管理，进程挂掉怎么处理？](https://github.com/qappleh/Web-Daily-Question/issues/155)
+
+讨论与参考答案：[第153题](https://github.com/qappleh/Web-Daily-Question/issues/155)
+
+
+>[第159题(2020-02-25)：node如何在一个进程的前提下开启多个线程?](https://github.com/qappleh/Web-Daily-Question/issues/161)
+
+讨论与参考答案：[第159题](https://github.com/qappleh/Web-Daily-Question/issues/161)
+
+
+>[第167题(2020-03-06)：nodejs从接收到请求到返回给页面经历了什么？](https://github.com/qappleh/Web-Daily-Question/issues/169)
+
+讨论与参考答案：[第167题](https://github.com/qappleh/Web-Daily-Question/issues/169)
+
+
+>[第217题(2020-05-20)：如何优化node后台的接口?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/219)
+
+讨论与参考答案：[第217题](https://github.com/qappleh/Web-Daily-Question/issues/219)
+
+
+###HTTP/网络协议
+
+>[第33题(2019-09-04)：谈谈你对 TCP 三次握手和四次挥手的理解？](https://github.com/qappleh/Web-Daily-Question/issues/35)
+
+讨论与参考答案：[第33题](https://github.com/qappleh/Web-Daily-Question/issues/35)
+
+
+>[第42题(2019-09-18)：Http 状态码 301 和 302 的应用场景分别是什么？](https://github.com/qappleh/Web-Daily-Question/issues/44)
+
+讨论与参考答案：[第42题](https://github.com/qappleh/Web-Daily-Question/issues/44)
+
+
+>[第44题(2019-09-20)：介绍下 http1.0、1.1、2.0 协议的区别？](https://github.com/qappleh/Web-Daily-Question/issues/46)
+
+讨论与参考答案：[第44题](https://github.com/qappleh/Web-Daily-Question/issues/46)
+
+
+>[第107题(2019-12-18)：一个TCP 连接可以发多少个 HTTP 请求？](https://github.com/qappleh/Web-Daily-Question/issues/109)
+
+讨论与参考答案：[第107题](https://github.com/qappleh/Web-Daily-Question/issues/109)
+
+
+>[第114题(2019-12-26)：HTTPS如何实现安全加密传输？](https://github.com/qappleh/Web-Daily-Question/issues/116)
+
+讨论与参考答案：[第114题](https://github.com/qappleh/Web-Daily-Question/issues/116)
+
+
+>[第128题(2020-01-14)：websocket 和 TCP Socket的区别，websocket 的握手过程，为什么要基于 HTTP 请求来握手?(字节跳动)](https://github.com/qappleh/Web-Daily-Question/issues/130)
+
+讨论与参考答案：[第128题](https://github.com/qappleh/Web-Daily-Question/issues/130)
+
+
+>[第133题(2020-01-21)：TCP、UDP区别？](https://github.com/qappleh/Web-Daily-Question/issues/135)
+
+讨论与参考答案：[第133题](https://github.com/qappleh/Web-Daily-Question/issues/135)
+
+
+>[第142题(2020-02-03)：fetch为什么会发送2次请求？](https://github.com/qappleh/Web-Daily-Question/issues/144)
+
+讨论与参考答案：[第142题](https://github.com/qappleh/Web-Daily-Question/issues/144)
+
+
+>[第161题(2020-02-27)：gzip压缩的原理是什么？](https://github.com/qappleh/Web-Daily-Question/issues/163)
+
+讨论与参考答案：[第161题](https://github.com/qappleh/Web-Daily-Question/issues/163)
+
+
+>[第164题(2020-03-03)：HTTP报文结构，请求头有啥，响应头有啥？](https://github.com/qappleh/Web-Daily-Question/issues/166)
+
+讨论与参考答案：[第164题](https://github.com/qappleh/Web-Daily-Question/issues/166)
+
+
+>[第183题(2020-03-31)：http缓存控制，协商缓存相关的几个头部的之间的优先级关系？](https://github.com/qappleh/Web-Daily-Question/issues/185)
+
+讨论与参考答案：[第183题](https://github.com/qappleh/Web-Daily-Question/issues/185)
+
+
+>[第206题(2020-05-06)：http2为什么快，多了什么特性，头部压缩算法是怎样？](https://github.com/qappleh/Web-Daily-Question/issues/208)
+
+讨论与参考答案：[第206题](https://github.com/qappleh/Web-Daily-Question/issues/208)
+
+
+>[第207题(2020-05-07)：http缓存是怎样的?etag和last modify分别什么优点缺点，适合什么场景(描述、举例）](https://github.com/qappleh/Web-Daily-Question/issues/209)
+
+讨论与参考答案：[第207题](https://github.com/qappleh/Web-Daily-Question/issues/209)
+
+
+###浏览器
+
+>[第19题(2019-08-15)：请求时浏览器缓存 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache中？](https://github.com/qappleh/Web-Daily-Question/issues/21)
+
+讨论与参考答案：[第19题](https://github.com/qappleh/Web-Daily-Question/issues/21)
+
+
+>[第99题(2019-12-09)：webAssebly1.0成为W3C标准，你对它了解多少？](https://github.com/qappleh/Web-Daily-Question/issues/101)
+
+讨论与参考答案：[第99题](https://github.com/qappleh/Web-Daily-Question/issues/101)
+
+
+>[第203题(2020-04-28)：响应式背后的浏览器原理你知道吗？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/205)
+
+讨论与参考答案：[第203题](https://github.com/qappleh/Web-Daily-Question/issues/205)
+
+
+>[第215题(2020-05-18)：缓存以键值形式存在浏览器，键是什么，值是什么？（腾讯）](https://github.com/qappleh/Web-Daily-Question/issues/217)
+
+讨论与参考答案：[第215题](https://github.com/qappleh/Web-Daily-Question/issues/217)
+
+
+###Web安全与性能
+
+>[第13题（2019-08-7）：为什么for循环嵌套顺序会影响性能？](https://github.com/qappleh/Web-Daily-Question/issues/15)
+
+讨论与参考答案：[第13题](https://github.com/qappleh/Web-Daily-Question/issues/15)
+
+
+>[第24题(2019-08-22)：介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/qappleh/Web-Daily-Question/issues/26)
+
+讨论与参考答案：[第24题](https://github.com/qappleh/Web-Daily-Question/issues/26)
+
+
+>[第40题(2019-09-16)：如何实现骨架屏，说说你的思路？](https://github.com/qappleh/Web-Daily-Question/issues/42)
+
+讨论与参考答案：[第40题](https://github.com/qappleh/Web-Daily-Question/issues/42)
+
+
+>[第87题(2019-11-21)： 常见的web安全攻击及防护原理?](https://github.com/qappleh/Web-Daily-Question/issues/89)
+
+讨论与参考答案：[第87题](https://github.com/qappleh/Web-Daily-Question/issues/89)
+
+
+>[第127题(2020-01-13)：假设现在有一个微信公众号文章的页面，可以展示文章、图片、视频和读者留言，从安全和交互性能的角度去讲一下如何优化？(企业微信)](https://github.com/qappleh/Web-Daily-Question/issues/129)
+
+讨论与参考答案：[第127题](https://github.com/qappleh/Web-Daily-Question/issues/129)
+
+
+>[第129题(2020-01-15)：一个监听了 input 事件的输入框，每次触发input都会发送请求，这个输入框的优化方案(微众银行)](https://github.com/qappleh/Web-Daily-Question/issues/131)
+
+讨论与参考答案：[第129题](https://github.com/qappleh/Web-Daily-Question/issues/131)
+
+
+>[第162题(2020-02-28)：CSRF、SSRF和XSS的区别是什么？](https://github.com/qappleh/Web-Daily-Question/issues/164)
+
+讨论与参考答案：[第162题](https://github.com/qappleh/Web-Daily-Question/issues/164)
+
+
+>[第163题(2020-03-02)：Cookie中的httponly的属性和作用？](https://github.com/qappleh/Web-Daily-Question/issues/165)
+
+讨论与参考答案：[第163题](https://github.com/qappleh/Web-Daily-Question/issues/165)
+
+
+>[第165题(2020-03-04)：JWT(JSON Web Token)的原理是什么？](https://github.com/qappleh/Web-Daily-Question/issues/167)
+
+讨论与参考答案：[第165题](https://github.com/qappleh/Web-Daily-Question/issues/167)
+
+
+>[第181题(2020-03-27)：Base64 的原理？编码后比编码前是大了还是小了?](https://github.com/qappleh/Web-Daily-Question/issues/183)
+
+讨论与参考答案：[第181题](https://github.com/qappleh/Web-Daily-Question/issues/183)
+
+
+>[第204题(2020-04-29)：场景题：保证浏览器不受脚本的恶意攻击?(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/206)
+
+讨论与参考答案：[第204题](https://github.com/qappleh/Web-Daily-Question/issues/206)
+
+
+
+###工程化与工具
+
+>[第43题(2019-09-19)：怎么提高webpack打包速度？谈谈你的思路和方案](https://github.com/qappleh/Web-Daily-Question/issues/45)
+
+讨论与参考答案：[第43题](https://github.com/qappleh/Web-Daily-Question/issues/45)
+
+
+>[第90题(2019-11-26)： 如何抓取数据？如何使用工具来配置代理？](https://github.com/qappleh/Web-Daily-Question/issues/92)
+
+讨论与参考答案：[第90题](https://github.com/qappleh/Web-Daily-Question/issues/92)
+
+
+>[第91题(2019-11-27)： 你所了解的webpack的构建流程与打包原理？](https://github.com/qappleh/Web-Daily-Question/issues/93)
+
+讨论与参考答案：[第91题](https://github.com/qappleh/Web-Daily-Question/issues/93)
+
+
+>[第147题(2020-02-10)：使用import时，webpack对node_modules里的依赖会做什么？](https://github.com/qappleh/Web-Daily-Question/issues/149)
+
+讨论与参考答案：[第147题](https://github.com/qappleh/Web-Daily-Question/issues/149)
+
+
+>[第169题(2020-03-10)：webpack treeShaking原理，是靠什么才能实现？(字节跳动）](https://github.com/qappleh/Web-Daily-Question/issues/171)
+
+讨论与参考答案：[第169题](https://github.com/qappleh/Web-Daily-Question/issues/171)
+
+
+>[第184题(2020-04-01)：如果让你搭建一套前端监控方案，具体思路？](https://github.com/qappleh/Web-Daily-Question/issues/186)
+
+讨论与参考答案：[第184题](https://github.com/qappleh/Web-Daily-Question/issues/186)
+
+
+>[第199题(2020-04-23)：webpack Tree-shaking 原理是什么？](https://github.com/qappleh/Web-Daily-Question/issues/201)
+
+讨论与参考答案：[第199题](https://github.com/qappleh/Web-Daily-Question/issues/201)
+
+
+>[第200题(2020-04-24)：Docker 分层是什么，怎么做？（伴鱼）](https://github.com/qappleh/Web-Daily-Question/issues/202)
+
+讨论与参考答案：[第200题](https://github.com/qappleh/Web-Daily-Question/issues/202)
+
+
+>[第208题(2020-05-08)：项目中有用到过单元测试、e2e测试吗？它们的区别是什么？](https://github.com/qappleh/Web-Daily-Question/issues/210)
+
+讨论与参考答案：[第208题](https://github.com/qappleh/Web-Daily-Question/issues/210)
+
+
+>[第212题(2020-05-13)：webpack 如何实现动态加载（拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/214)
+
+讨论与参考答案：[第212题](https://github.com/qappleh/Web-Daily-Question/issues/214)
+
+
+>[第213题(2020-05-14)：组件库如何做按需加载？（拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/215)
+
+讨论与参考答案：[第213题](https://github.com/qappleh/Web-Daily-Question/issues/215)
+
+
+>[第214题(2020-05-15)：Mobx 思想的实现原理及与 Redux 对比？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/216)
+
+讨论与参考答案：[第214题](https://github.com/qappleh/Web-Daily-Question/issues/216)
+
+
+###数据结构与算法
+
+>[第119题(2020-1-02)：coding: 查找根节点到目标节点的路径(百度）](https://github.com/qappleh/Web-Daily-Question/issues/121)
+
+讨论与参考答案：[第119题](https://github.com/qappleh/Web-Daily-Question/issues/121)
+
+
+>[第141题(2020-01-31)：假设有130个苹果，你我轮流拿，每次可拿1-5个，如何保证你拿到最后一个苹果？](https://github.com/qappleh/Web-Daily-Question/issues/143)
+
+讨论与参考答案：[第141题](https://github.com/qappleh/Web-Daily-Question/issues/143)
+
+
+>[第152题(2020-02-15)：介绍冒泡排序，选择排序，冒泡排序如何优化?](https://github.com/qappleh/Web-Daily-Question/issues/154)
+
+讨论与参考答案：[第152题](https://github.com/qappleh/Web-Daily-Question/issues/154)
+
+
+>[第174题(2020-03-17)：实现一个算法，来完成字符串相加，比如 "111" + ”2222“ = ”2333“。(高精度算法)](https://github.com/qappleh/Web-Daily-Question/issues/176)
+
+讨论与参考答案：[第174题](https://github.com/qappleh/Web-Daily-Question/issues/176)
+
+
+>[第179题(2020-03-25)：有一个有序递增序列，求有多少个不同的数字。比如 [1, 5, 7, 7, 8, 9, 9]。里面总共有5个不同的数字:1, 5, 7, 8, 9 ](https://github.com/qappleh/Web-Daily-Question/issues/181)
+
+讨论与参考答案：[第179题](https://github.com/qappleh/Web-Daily-Question/issues/181)
+
+
+>[第193题(2020-04-15)：结构体转换,数组结构转换成树形结构。时间复杂度是多少？hashmap的实现知道不？](https://github.com/qappleh/Web-Daily-Question/issues/195)
+
+讨论与参考答案：[第193题](https://github.com/qappleh/Web-Daily-Question/issues/195)
+
+
+
+###数据库
+
+>[第166题(2020-03-05)：数据库的内连接和外连接有什么区别?](https://github.com/qappleh/Web-Daily-Question/issues/168)
+
+讨论与参考答案：[第166题](https://github.com/qappleh/Web-Daily-Question/issues/168)
+
+
+
+###架构
+
+>[第103题(2019-12-13)：谈谈你对MVC、MVP、MVVM这三种架构模式的理解及它们的区别？](https://github.com/qappleh/Web-Daily-Question/issues/105)
+
+讨论与参考答案：[第103题](https://github.com/qappleh/Web-Daily-Question/issues/105)
+
+
+>[第105题(2019-12-16)：有了解过微前端的概念吗？如果要你去设计实施微前端你会怎么做？](https://github.com/qappleh/Web-Daily-Question/issues/107)
+
+讨论与参考答案：[第105题](https://github.com/qappleh/Web-Daily-Question/issues/107)
+
+
+
+###服务端与运维
+
+>[第85题(2019-11-19)： 什么是SSR，怎么看待使用SSR（服务端渲染）的？](https://github.com/qappleh/Web-Daily-Question/issues/87)
+
+讨论与参考答案：[第85题](https://github.com/qappleh/Web-Daily-Question/issues/87)
+
+
+>[第88题(2019-11-22)： 服务端渲染SSR框架 Next.js的原理是什么及它的优缺点？](https://github.com/qappleh/Web-Daily-Question/issues/90)
+
+讨论与参考答案：[第88题](https://github.com/qappleh/Web-Daily-Question/issues/90)
+
+
+>[第113题(2019-12-25)：说说Nginx 有哪些负载均衡策略？](https://github.com/qappleh/Web-Daily-Question/issues/115)
+
+讨论与参考答案：[第113题](https://github.com/qappleh/Web-Daily-Question/issues/115)
+
+
+
+
 ## 名企题库  
 
 ### 腾讯  
