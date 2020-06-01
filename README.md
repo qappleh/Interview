@@ -32,6 +32,82 @@
 
 讨论与参考答案：[第215题](https://github.com/qappleh/Web-Daily-Question/issues/217)
 
+## 分类  
+
+### HTML
+>[第112题(2019-12-24)：请使用canvas画一个五角星。](https://github.com/qappleh/Web-Daily-Question/issues/114)
+
+讨论与参考答案：[第112题](https://github.com/qappleh/Web-Daily-Question/issues/114)
+
+>[第190题(2020-04-10)：dangerousSetInnerHTMl知道不？和innerHTML的区别？（美团）](https://github.com/qappleh/Web-Daily-Question/issues/192)
+
+讨论与参考答案：[第190题](https://github.com/qappleh/Web-Daily-Question/issues/192)
+
+>[第202题(2020-04-27)：dom树和cssom树原理是什么？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/204)
+
+讨论与参考答案：[第202题](https://github.com/qappleh/Web-Daily-Question/issues/204)
+
+### CSS
+>[第24题(2019-08-22)：介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/qappleh/Web-Daily-Question/issues/26)
+
+讨论与参考答案：[第24题](https://github.com/qappleh/Web-Daily-Question/issues/26)
+
+>[第203题(2020-04-28)：响应式背后的浏览器原理你知道吗？（阿里）](https://github.com/qappleh/Web-Daily-Question/issues/205)
+
+讨论与参考答案：[第205题](https://github.com/qappleh/Web-Daily-Question/issues/205)
+
+>[第220题(2020-05-25)：flex: 0 1 auto 表示什么意思?(拼多多）](https://github.com/qappleh/Web-Daily-Question/issues/222)
+
+讨论与参考答案：[第220题](https://github.com/qappleh/Web-Daily-Question/issues/222)
+
+### javaScript
+>[第1题(2019-07-22) 以下代码会输出什么?](https://github.com/qappleh/Web-Daily-Question/issues/3)
+
+讨论与参考答案：[第1题](https://github.com/qappleh/Web-Daily-Question/issues/3)
+
+>[第2题(2019-07-23)：a在什么情况下，控制台会输出hello world（答案不唯一）](https://github.com/qappleh/Web-Daily-Question/issues/4)
+
+讨论与参考答案：[第2题](https://github.com/qappleh/Web-Daily-Question/issues/4)
+
+>[第10题(2019-08-02)：输出以下代码运行结果](https://github.com/qappleh/Web-Daily-Question/issues/12)
+
+讨论与参考答案：[第10题](https://github.com/qappleh/Web-Daily-Question/issues/12)
+
+>[第12题（2019-08-6）：编程题，根据以下要求，写一个数组去重函数](https://github.com/qappleh/Web-Daily-Question/issues/14)
+
+讨论与参考答案：[第12题](https://github.com/qappleh/Web-Daily-Question/issues/14)
+
+>[第13题（2019-08-7）：为什么for循环嵌套顺序会影响性能?](https://github.com/qappleh/Web-Daily-Question/issues/15)
+
+讨论与参考答案：[第13题](https://github.com/qappleh/Web-Daily-Question/issues/15)
+
+>[第14题（2019-08-8）：统计 1 ~ n 整数中出现 1 的次数](https://github.com/qappleh/Web-Daily-Question/issues/16)
+
+讨论与参考答案：[第14题](https://github.com/qappleh/Web-Daily-Question/issues/16)
+
+>[第15题(2019-08-09)：修改以下 print 函数，使之输出 0 到 99，或者 99 到 0 ](https://github.com/qappleh/Web-Daily-Question/issues/17)
+
+讨论与参考答案：[第15题](https://github.com/qappleh/Web-Daily-Question/issues/17)
+
+>[第18题(2019-08-14)：实现一个 sleep 函数，比如 sleep(1000) 意味着等待1000毫秒，可从 Promise、Generator、Async/Await 等角度实现](https://github.com/qappleh/Web-Daily-Question/issues/19)
+
+讨论与参考答案：[第18题](https://github.com/qappleh/Web-Daily-Question/issues/19)
+
+>[第20题(2019-08-16)：下面代码中 a 在什么情况下会打印 1？](https://github.com/qappleh/Web-Daily-Question/issues/22)
+
+讨论与参考答案：[第20题](https://github.com/qappleh/Web-Daily-Question/issues/22)
+
+>[第21题(2019-08-19)：vue 是如何对数组方法进行变异的？例如 push、pop、splice 等方法](https://github.com/qappleh/Web-Daily-Question/issues/23)
+
+讨论与参考答案：[第21题](https://github.com/qappleh/Web-Daily-Question/issues/23)
+
+>[第22题(2019-08-20)：：ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/qappleh/Web-Daily-Question/issues/24)
+
+讨论与参考答案：[第22题](https://github.com/qappleh/Web-Daily-Question/issues/24)
+
+
+
+
 
 ## 名企题库  
 
