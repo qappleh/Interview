@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第225题(2020-06-01)：view 层、js 层分别在哪里、怎么通信 ?（阿里蚂蚁）
+> 第227题(2020-06-03)：怎么获取首屏时间？（拼多多）
 
-讨论与参考答案：[第225题](https://github.com/qappleh/Web-Daily-Question/issues/227)  
+讨论与参考答案：[第227题](https://github.com/qappleh/Web-Daily-Question/issues/229)  
 
 
 ## 一周汇总
@@ -32,7 +32,7 @@
 
 讨论与参考答案：[第215题](https://github.com/qappleh/Web-Daily-Question/issues/217)
 
-## 分类  
+## 分类  我
 
 ### HTML
 
