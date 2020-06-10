@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第230题(2020-06-08)：大型复杂项目开发协作经验、遇到的问题和解决方案？（阿里蚂蚁））
+> 第233题(2020-06-11)：如何实现一个findIndex（YY）
 
-讨论与参考答案：[第230题](https://github.com/qappleh/Web-Daily-Question/issues/232)  
+讨论与参考答案：[第233题](https://github.com/qappleh/Web-Daily-Question/issues/235)  
 
 
 ## 一周汇总
