@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第236题(2020-06-16)：如何实现if(a===1&&a===2&&a===3)？(CVTE)
+> 第240题(2020-06-22)：spread和rest运算符的区别？
 
-讨论与参考答案：[第236题](https://github.com/qappleh/Web-Daily-Question/issues/238)  
+讨论与参考答案：[第240题](https://github.com/qappleh/Web-Daily-Question/issues/242)  
 
 
 ## 一周汇总
