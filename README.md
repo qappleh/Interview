@@ -8,7 +8,7 @@
 
 > 第246题(2020-06-30)：Object.create实现了什么？传null得到的结果和普通对象有什么区别？（快手）
 
-讨论与参考答案：[第246题](https://github.com/qappleh/Web-Daily-Question/issues/251)  
+讨论与参考答案：[第246题](https://github.com/qappleh/Web-Daily-Question/issues/249)  
 
 
 ## 一周汇总
