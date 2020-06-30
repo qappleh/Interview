@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第245题(2020-06-29)：说一下跨域，jsonp的原理是什么？node中间件解决跨域问题的原理是什么？（快手）
+> 第246题(2020-06-30)：Object.create实现了什么？传null得到的结果和普通对象有什么区别？（快手）
 
-讨论与参考答案：[第245题](https://github.com/qappleh/Web-Daily-Question/issues/248)  
+讨论与参考答案：[第246题](https://github.com/qappleh/Web-Daily-Question/issues/251)  
 
 
 ## 一周汇总
