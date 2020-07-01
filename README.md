@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第246题(2020-06-30)：Object.create实现了什么？传null得到的结果和普通对象有什么区别？（快手）
+> 第247题(2020-07-01)：手写代码实现一个JS函数柯里化？
 
-讨论与参考答案：[第246题](https://github.com/qappleh/Web-Daily-Question/issues/249)  
+讨论与参考答案：[第247题](https://github.com/qappleh/Web-Daily-Question/issues/250)  
 
 
 ## 一周汇总
