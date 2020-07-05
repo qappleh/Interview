@@ -12,25 +12,25 @@
 
 
 ## 一周汇总
->[第239题(2020-06-19)：0.1 + 0.2 != 0.3背后的原理？(阿里）](https://github.com/qappleh/Web-Daily-Question/issues/242)
+>[第249题(2020-07-03)：手写代码实现一个JSON.stringify？](https://github.com/qappleh/Web-Daily-Question/issues/252)
 
-讨论与参考答案：[第239题](https://github.com/qappleh/Web-Daily-Question/issues/242)
+讨论与参考答案：[第249题](https://github.com/qappleh/Web-Daily-Question/issues/252)
 
->[第238题(2020-06-18)：怎么设计一个高并发的秒杀系统，谈谈你的思路？](https://github.com/qappleh/Web-Daily-Question/issues/241)
+>[第248题(2020-07-02)：手写代码实现一个继承？](https://github.com/qappleh/Web-Daily-Question/issues/251)
 
-讨论与参考答案：[第238题](https://github.com/qappleh/Web-Daily-Question/issues/241)
+讨论与参考答案：[第248题](https://github.com/qappleh/Web-Daily-Question/issues/251)
 
->[第237题(2020-06-17)：什么是GPU加速？（CVTE）](https://github.com/qappleh/Web-Daily-Question/issues/240)
+>[第247题(2020-07-01)：手写代码实现一个JS函数柯里化？](https://github.com/qappleh/Web-Daily-Question/issues/250)
 
-讨论与参考答案：[第237题](https://github.com/qappleh/Web-Daily-Question/issues/240)
+讨论与参考答案：[第247题](https://github.com/qappleh/Web-Daily-Question/issues/250)
 
->[第236题(2020-06-16)：如何实现if(a===1&&a===2&&a===3)？(CVTE)](https://github.com/qappleh/Web-Daily-Question/issues/239)
+>[第246题(2020-06-30)：Object.create实现了什么？传null得到的结果和普通对象有什么区别？（快手）](https://github.com/qappleh/Web-Daily-Question/issues/249)
 
-讨论与参考答案：[第236题](https://github.com/qappleh/Web-Daily-Question/issues/239)
+讨论与参考答案：[第246题](https://github.com/qappleh/Web-Daily-Question/issues/249)
 
->[第235题(2020-06-15)：如果我将key设置为了一个Math.random()可以吗（CVTE）](https://github.com/qappleh/Web-Daily-Question/issues/238)
+>[第245题(2020-06-29)：说一下跨域，jsonp的原理是什么？node中间件解决跨域问题的原理是什么？（快手）](https://github.com/qappleh/Web-Daily-Question/issues/248)
 
-讨论与参考答案：[第235题](https://github.com/qappleh/Web-Daily-Question/issues/238)
+讨论与参考答案：[第245题](https://github.com/qappleh/Web-Daily-Question/issues/248)
 
 ## 分类  
 
