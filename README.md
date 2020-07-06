@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第249题(2020-07-03)：手写代码实现一个JSON.stringify？
+> 第250题(2020-07-06)：手写代码实现一个JSON.parse？
 
-讨论与参考答案：[第249题](https://github.com/qappleh/Web-Daily-Question/issues/252)  
+讨论与参考答案：[第250题](https://github.com/qappleh/Web-Daily-Question/issues/253)  
 
 
 ## 一周汇总
