@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第257题(2020-07-15)：写一个 mySetInterVal(fn, a, b),每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal？
+> 第259题(2020-07-17)：字符串出现的不重复最长长度？（腾讯）
 
-讨论与参考答案：[第257题](https://github.com/qappleh/Web-Daily-Question/issues/260)  
+讨论与参考答案：[第259题](https://github.com/qappleh/Web-Daily-Question/issues/262)  
 
 
 ## 一周汇总
