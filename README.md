@@ -6,9 +6,8 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第266题(2020-07-28)：如何获取一个进程的内存并监控?
-
-讨论与参考答案：[第266题](https://github.com/qappleh/Web-Daily-Question/issues/269)  
+> 第267题(2020-07-29)：如何把 json 数据转化为 demo.json 并下载文件？
+讨论与参考答案：[第267题](https://github.com/qappleh/Web-Daily-Question/issues/270)  
 
 
 ## 一周汇总
