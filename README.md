@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第269题(2020-07-31)：在浏览器中如何监听剪切板中内容?
+> 第270题(2020-08-03)：简述下 css specificity？
 
-讨论与参考答案：[第269题](https://github.com/qappleh/Web-Daily-Question/issues/272)  
+讨论与参考答案：[第270题](https://github.com/qappleh/Web-Daily-Question/issues/273)  
 
 
 ## 一周汇总
