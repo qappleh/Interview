@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第272题(2020-08-05)：DOMContentLoaded 与 load 的区别 ?
+> 第274题(2020-08-07)：在排序数组中查找元素的第一个和最后一个位置 （腾讯、字节）
 
-讨论与参考答案：[第272题](https://github.com/qappleh/Web-Daily-Question/issues/275)  
+讨论与参考答案：[第274题](https://github.com/qappleh/Web-Daily-Question/issues/277)  
 
 
 ## 一周汇总
