@@ -12,25 +12,25 @@
 
 
 ## 一周汇总
->[第249题(2020-07-03)：手写代码实现一个JSON.stringify？](https://github.com/qappleh/Web-Daily-Question/issues/252)
+>[第274题(2020-08-07)：在排序数组中查找元素的第一个和最后一个位置 （腾讯、字节）](https://github.com/qappleh/Web-Daily-Question/issues/277)
 
-讨论与参考答案：[第249题](https://github.com/qappleh/Web-Daily-Question/issues/252)
+讨论与参考答案：[第274题](https://github.com/qappleh/Web-Daily-Question/issues/277)
 
->[第248题(2020-07-02)：手写代码实现一个继承？](https://github.com/qappleh/Web-Daily-Question/issues/251)
+>[第273题(2020-08-06)：使用最小花费爬楼梯？（字节）](https://github.com/qappleh/Web-Daily-Question/issues/276)
 
-讨论与参考答案：[第248题](https://github.com/qappleh/Web-Daily-Question/issues/251)
+讨论与参考答案：[第273题](https://github.com/qappleh/Web-Daily-Question/issues/276)
 
->[第247题(2020-07-01)：手写代码实现一个JS函数柯里化？](https://github.com/qappleh/Web-Daily-Question/issues/250)
+>[第272题(2020-08-05)：DOMContentLoaded 与 load 的区别 ?](https://github.com/qappleh/Web-Daily-Question/issues/275)
 
-讨论与参考答案：[第247题](https://github.com/qappleh/Web-Daily-Question/issues/250)
+讨论与参考答案：[第272题](https://github.com/qappleh/Web-Daily-Question/issues/275)
 
->[第246题(2020-06-30)：Object.create实现了什么？传null得到的结果和普通对象有什么区别？（快手）](https://github.com/qappleh/Web-Daily-Question/issues/249)
+>[第271题(2020-08-04)：Object.defineproperty() 可以监听 DOM 属性吗？（腾讯）](https://github.com/qappleh/Web-Daily-Question/issues/274)
 
-讨论与参考答案：[第246题](https://github.com/qappleh/Web-Daily-Question/issues/249)
+讨论与参考答案：[第271题](https://github.com/qappleh/Web-Daily-Question/issues/274)
 
->[第245题(2020-06-29)：说一下跨域，jsonp的原理是什么？node中间件解决跨域问题的原理是什么？（快手）](https://github.com/qappleh/Web-Daily-Question/issues/248)
+>[第270题(2020-08-03)：简述下 css specificity？](https://github.com/qappleh/Web-Daily-Question/issues/273)
 
-讨论与参考答案：[第245题](https://github.com/qappleh/Web-Daily-Question/issues/248)
+讨论与参考答案：[第270题](https://github.com/qappleh/Web-Daily-Question/issues/273)
 
 ## 分类  
 
