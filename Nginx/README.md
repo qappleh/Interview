@@ -10,6 +10,6 @@
 
 [6.理解Nginx工作原理]( https://www.jianshu.com/p/6215e5d24553)  
 
-[7.前端开发者必备的Nginx知识( https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)  
+[7.前端开发者必备的Nginx知识]( https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)
 
-[8.前端必会的 Nginx入门视频教程(共11集)( https://juejin.im/post/5bd7a6046fb9a05d2c43f8c7)  
+[8.前端必会的 Nginx入门视频教程(共11集)]( https://juejin.im/post/5bd7a6046fb9a05d2c43f8c7)
