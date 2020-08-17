@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第278题(2020-08-13)：从页面 A 打开一个新页面 B，B 页面关闭（包括意外崩溃），如何通知 A 页面？
+> 第280题(2020-08-17)：客户端缓存有几种方式？浏览器出现 from disk、from memory 的策略是啥 ？
 
-讨论与参考答案：[第278题](https://github.com/qappleh/Web-Daily-Question/issues/281)  
+讨论与参考答案：[第280题](https://github.com/qappleh/Web-Daily-Question/issues/283)  
 
 
 ## 一周汇总
