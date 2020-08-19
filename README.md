@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第281题(2020-08-18)：:Promise.all中任何一个Promise出现错误的时候都会执行reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？
+> 第282题(2020-08-19)：Import 和 CommonJS 在 webpack 打包过程中有什么不同？
 
-讨论与参考答案：[第281题](https://github.com/qappleh/Web-Daily-Question/issues/284)  
+讨论与参考答案：[第282题](https://github.com/qappleh/Web-Daily-Question/issues/285)  
 
 
 ## 一周汇总
