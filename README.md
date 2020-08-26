@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第282题(2020-08-19)：Import 和 CommonJS 在 webpack 打包过程中有什么不同？
+> 第287题(2020-08-26)：说一下 Https 加密握手的过程 ？
 
-讨论与参考答案：[第282题](https://github.com/qappleh/Web-Daily-Question/issues/285)  
+讨论与参考答案：[第287题](https://github.com/qappleh/Web-Daily-Question/issues/290)  
 
 
 ## 一周汇总
