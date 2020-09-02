@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第292题(2020-09-02)：对虚拟 DOM 的理解？虚拟 DOM 主要做了什么？虚拟 DOM 本身是什么？
+> 第293题(2020-09-03)：Vue v-model 是如何实现的，语法糖实际是什么？
 
-讨论与参考答案：[第292题](https://github.com/qappleh/Web-Daily-Question/issues/295)  
+讨论与参考答案：[第293题](https://github.com/qappleh/Web-Daily-Question/issues/296)  
 
 
 ## 一周汇总
