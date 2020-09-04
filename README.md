@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第293题(2020-09-03)：Vue v-model 是如何实现的，语法糖实际是什么？
+> 第294题(2020-09-04)：Vue组件中写name选项有除了搭配keep-alive还有其他作用么？你能谈谈你对keep-alive了解么？（平时使用和源码实现方面）
 
-讨论与参考答案：[第293题](https://github.com/qappleh/Web-Daily-Question/issues/296)  
+讨论与参考答案：[第294题](https://github.com/qappleh/Web-Daily-Question/issues/297)  
 
 
 ## 一周汇总
