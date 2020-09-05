@@ -6,31 +6,35 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第294题(2020-09-04)：Vue组件中写name选项有除了搭配keep-alive还有其他作用么？你能谈谈你对keep-alive了解么？（平时使用和源码实现方面）
+> 第295题(2020-09-05)：Promise.all中任何一个Promise出现错误的时候都会执行reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？ 
 
-讨论与参考答案：[第294题](https://github.com/qappleh/Web-Daily-Question/issues/297)  
+讨论与参考答案：[第295题](https://github.com/qappleh/Web-Daily-Question/issues/298)  
 
 
 ## 一周汇总
->[第274题(2020-08-07)：在排序数组中查找元素的第一个和最后一个位置 （腾讯、字节）](https://github.com/qappleh/Web-Daily-Question/issues/277)
+>[第295题(2020-09-05)：Promise.all中任何一个Promise出现错误的时候都会执行reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？](https://github.com/qappleh/Web-Daily-Question/issues/298)
 
-讨论与参考答案：[第274题](https://github.com/qappleh/Web-Daily-Question/issues/277)
+讨论与参考答案：[第295题](https://github.com/qappleh/Web-Daily-Question/issues/298)
 
->[第273题(2020-08-06)：使用最小花费爬楼梯？（字节）](https://github.com/qappleh/Web-Daily-Question/issues/276)
+>[第294题(2020-09-04)：Vue组件中写name选项有除了搭配keep-alive还有其他作用么？你能谈谈你对keep-alive了解么？](https://github.com/qappleh/Web-Daily-Question/issues/297)
 
-讨论与参考答案：[第273题](https://github.com/qappleh/Web-Daily-Question/issues/276)
+讨论与参考答案：[第294题](https://github.com/qappleh/Web-Daily-Question/issues/297)
 
->[第272题(2020-08-05)：DOMContentLoaded 与 load 的区别 ?](https://github.com/qappleh/Web-Daily-Question/issues/275)
+>[第293题(2020-09-03)：Vue v-model 是如何实现的，语法糖实际是什么？](https://github.com/qappleh/Web-Daily-Question/issues/296)
 
-讨论与参考答案：[第272题](https://github.com/qappleh/Web-Daily-Question/issues/275)
+讨论与参考答案：[第293题](https://github.com/qappleh/Web-Daily-Question/issues/296)
 
->[第271题(2020-08-04)：Object.defineproperty() 可以监听 DOM 属性吗？（腾讯）](https://github.com/qappleh/Web-Daily-Question/issues/274)
+>[第292题(2020-09-02)：对虚拟 DOM 的理解？虚拟 DOM 主要做了什么？虚拟 DOM 本身是什么？](https://github.com/qappleh/Web-Daily-Question/issues/295)
 
-讨论与参考答案：[第271题](https://github.com/qappleh/Web-Daily-Question/issues/274)
+讨论与参考答案：[第292题](https://github.com/qappleh/Web-Daily-Question/issues/295)
 
->[第270题(2020-08-03)：简述下 css specificity？](https://github.com/qappleh/Web-Daily-Question/issues/273)
+>[第291题(2020-09-01)：数组里面有 10 万个数据，取第一个元素和第 10 万个元素的时间相差多少?](https://github.com/qappleh/Web-Daily-Question/issues/294)
 
-讨论与参考答案：[第270题](https://github.com/qappleh/Web-Daily-Question/issues/273)
+讨论与参考答案：[第291题](https://github.com/qappleh/Web-Daily-Question/issues/294)
+
+>[第290题(2020-08-31)：请说出以下代码输出的内容](https://github.com/qappleh/Web-Daily-Question/issues/293)
+
+讨论与参考答案：[第290题](https://github.com/qappleh/Web-Daily-Question/issues/293)
 
 ## 分类  
 
