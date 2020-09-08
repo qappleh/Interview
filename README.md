@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第295题(2020-09-05)：Promise.all中任何一个Promise出现错误的时候都会执行reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？ 
+> 第297题(2020-09-08)：301、302 的 https 被挟持怎么办？
 
-讨论与参考答案：[第295题](https://github.com/qappleh/Web-Daily-Question/issues/298)  
+讨论与参考答案：[第297题](https://github.com/qappleh/Web-Daily-Question/issues/300)  
 
 
 ## 一周汇总
