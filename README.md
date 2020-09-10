@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> 第298题(2020-09-09)：请描述下 JavaScript 中 Scope、Closure、Prototype 概念，并说明 JavaScript 封装、继承实现原理。
+>  第299题(2020-09-10)：微任务和宏任务的区别？
 
-讨论与参考答案：[第298题](https://github.com/qappleh/Web-Daily-Question/issues/301)  
+讨论与参考答案：[第299题](https://github.com/qappleh/Web-Daily-Question/issues/302)  
 
 
 ## 一周汇总
