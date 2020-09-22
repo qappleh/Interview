@@ -8,7 +8,7 @@
 
 >  第309题(2020-09-22)：实现格式化输出，比如输入 999999999，输出 999,999,999?
 
-讨论与参考答案：[第309题](https://github.com/qappleh/Web-Daily-Question/issues/311
+讨论与参考答案：[第309题](https://github.com/qappleh/Web-Daily-Question/issues/312
 
 
 ## 一周汇总
