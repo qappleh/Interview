@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
->  第313题(2020-09-26)：编写一个算法解析以下符号，转换为json树的结构 （美团）
+>  第314题(2020-09-27)：异步串行编程题：按照以下要求，实现 createFlow 函数(阿里）
 
-讨论与参考答案：[第313题](https://github.com/qappleh/Web-Daily-Question/issues/316
+讨论与参考答案：[第314题](https://github.com/qappleh/Web-Daily-Question/issues/317
 
 
 ## 一周汇总
