@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
->  第316题(2020-09-29)：全排列问题（百度&leetcode46）
+>  第318题(2020-10-06)：leetcode875：爱吃香蕉的珂珂（腾讯）
 
-讨论与参考答案：[第316题](https://github.com/qappleh/Web-Daily-Question/issues/319
+讨论与参考答案：[第318题](https://github.com/qappleh/Web-Daily-Question/issues/321
 
 
 ## 一周汇总
