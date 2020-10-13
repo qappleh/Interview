@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
->  第322题(2020-10-10)：leetcode230：二叉搜索树中第K小的元素（腾讯）
+>  第323题(2020-10-13)：leetcode1146：快照数组（字节）
 
-讨论与参考答案：[第322题](https://github.com/qappleh/Web-Daily-Question/issues/325
+讨论与参考答案：[第323题](https://github.com/qappleh/Web-Daily-Question/issues/326
 
 
 ## 一周汇总
