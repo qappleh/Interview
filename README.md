@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
->  第326题(2020-10-16)：leetcode88：合并两个有序数组（腾讯）
+>  第327题(2020-10-18)：leetcode349：给定两个数组，编写一个函数来计算它们的交集(腾讯）
 
-讨论与参考答案：[第326题](https://github.com/qappleh/Web-Daily-Question/issues/329
+讨论与参考答案：[第327题](https://github.com/qappleh/Web-Daily-Question/issues/330
 
 
 ## 一周汇总
