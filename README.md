@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
->  第330题(2020-10-21)：leetcode141：判断一个单链表是否有环（有赞）
+>  第331题(2020-10-22)：leetcode415：字符串相加（腾讯、字节）
 
-讨论与参考答案：[第330题](https://github.com/qappleh/Web-Daily-Question/issues/333
+讨论与参考答案：[第331题](https://github.com/qappleh/Web-Daily-Question/issues/334
 
 
 ## 一周汇总
