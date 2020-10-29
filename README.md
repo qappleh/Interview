@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
->  第333题(2020-10-24)：leetcode151：翻转字符串里的单词（字节）
+>   第337题(2020-10-29)：剑指 Offer 03. 数组中重复的数字？
 
-讨论与参考答案：[第333题](https://github.com/qappleh/Web-Daily-Question/issues/336
+讨论与参考答案：[第337题](https://github.com/qappleh/Web-Daily-Question/issues/340
 
 
 ## 一周汇总
