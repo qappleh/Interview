@@ -8,7 +8,7 @@
 
 > 第347题(2020-11-25)：算法：js实现将一个二维数组转换成树结构（京东）
 
-讨论与参考答案：[第347题](https://github.com/qappleh/Web-Daily-Question/issues/350
+讨论与参考答案：[第347题](https://github.com/qappleh/Web-Daily-Question/issues/350)
 
 
 ## 一周汇总
