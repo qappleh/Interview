@@ -10,6 +10,10 @@
 
 讨论与参考答案：[第348题](https://github.com/qappleh/Web-Daily-Question/issues/351)
 
+## 大厂面试：
+ 公众号已发的BAT等大厂的面经、面试题、简历准备、面试技巧等相关话题！
+ [大厂面经面试题汇总](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4MDg4NDczMQ==&action=getalbum&album_id=1790586969761103872#wechat_redirect)
+
 
 ## 一周汇总
 >[第313题(2020-09-26)：编写一个算法解析以下符号，转换为json树的结构 （美团）](https://github.com/qappleh/Web-Daily-Question/issues/316)
