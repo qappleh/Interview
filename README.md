@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day349：编程题：写一个eventEmitter类（发布/订阅模式），包括on()、off()、once()、emit()方法？
+> Day350：实现一个千分位的货币格式化方法？
 
-讨论与参考答案：[第349题](https://github.com/qappleh/Web-Daily-Question/issues/352)
+讨论与参考答案：[第350题](https://github.com/qappleh/Web-Daily-Question/issues/353)
 
 ## 大厂面试：
  公众号已发的BAT等大厂的面经、面试题、简历准备、面试技巧等相关话题！
