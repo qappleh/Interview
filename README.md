@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day353：写出一个方法，此方法接收两个字符串参数childStr,parentStr，如果parentStr包含childStr的任一排列组合，那么返回true，否则返回false（腾讯）。
+> Day354：把任意一个函数，修饰生成一个带重试功能的新函数（滴滴）。
 
-讨论与参考答案：[第353题](https://github.com/qappleh/Web-Daily-Question/issues/356)
+讨论与参考答案：[第354题](https://github.com/qappleh/Web-Daily-Question/issues/357)
 
 ## 大厂面试：
  公众号已发的BAT等大厂的面经、面试题、简历准备、面试技巧等相关话题！
