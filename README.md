@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day355：要求写出一个方法，过滤掉这个JSON对象里的pos属性（腾讯）。
+> Day356：提取字符串中所有的uid=123213213格式中的数字？
 
-讨论与参考答案：[第355题](https://github.com/qappleh/Web-Daily-Question/issues/358)
+讨论与参考答案：[第356题](https://github.com/qappleh/Web-Daily-Question/issues/359)
 
 ## 大厂面试：
  公众号已发的BAT等大厂的面经、面试题、简历准备、面试技巧等相关话题！
