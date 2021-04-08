@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day358：有字符串var='abc345efgabcab',请写出3条js语句分别实现如下3个功能：
+> Day359：用递归的方式实现fibonacci(n)函数，输入数字n，输出斐波那契数列第N项数字，并给该函数加入缓存功能？
 
-讨论与参考答案：[第358题](https://github.com/qappleh/Web-Daily-Question/issues/361)
+讨论与参考答案：[第359题](https://github.com/qappleh/Web-Daily-Question/issues/362)
 
 ## 大厂面试：
  公众号已发的BAT等大厂的面经、面试题、简历准备、面试技巧等相关话题！
