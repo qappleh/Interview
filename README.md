@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day362：编写二叉树的前序遍历？（腾讯）
+> Day363：等待event事件，返回promise,如果事件触发，则resolve,如果有error事件触发，则reject？
 
-讨论与参考答案：[第362题](https://github.com/qappleh/Web-Daily-Question/issues/365)
+讨论与参考答案：[第363题](https://github.com/qappleh/Web-Daily-Question/issues/366)
 
 ## 每日一题投稿：  
 
