@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day364：给定一个二叉树, 找到该树中两个指定节点的最近公共祖先？
+> Day365：异步实现一个sleep函数?
 
-讨论与参考答案：[第364题](https://github.com/qappleh/Web-Daily-Question/issues/367)
+讨论与参考答案：[第365题](https://github.com/qappleh/Web-Daily-Question/issues/368)
 
 ## 每日一题投稿：  
 
