@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day368：盛最多水的容器？（字节）
+> Day369：js数组some()和every()方法的区别及自己去实现这两个方法？
 
-讨论与参考答案：[第368题](https://github.com/qappleh/Web-Daily-Question/issues/371)
+讨论与参考答案：[第369题](https://github.com/qappleh/Web-Daily-Question/issues/372)
 
 ## 每日一题投稿：  
 
