@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day371：一个赛场中有5条赛道，现在有25匹马，在没有定时器的前提下最少跑多少圈可以角逐出前三名？
+> Day373：Promise.all()和Promise.race()的区别并自己去实现这两个方法？
 
-讨论与参考答案：[第371题](https://github.com/qappleh/Web-Daily-Question/issues/374)
+讨论与参考答案：[第373题](https://github.com/qappleh/Web-Daily-Question/issues/375)
 
 ## 每日一题投稿：  
 
