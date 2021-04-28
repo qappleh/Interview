@@ -8,7 +8,7 @@
 
 > Day373：Promise.all()和Promise.race()的区别并自己去实现这两个方法？
 
-讨论与参考答案：[第373题](https://github.com/qappleh/Web-Daily-Question/issues/375)
+讨论与参考答案：[第373题](https://github.com/qappleh/Web-Daily-Question/issues/376)
 
 ## 每日一题投稿：  
 
