@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day373：Promise.all()和Promise.race()的区别并自己去实现这两个方法？
+> Day374：已知函数fn1会随机返回1-5的整数，要求基于fn1编写fn2，要随机生成1-7，fn2内不能使用系统的随机api，只能调用fn1获取随机数？(腾讯）
 
-讨论与参考答案：[第373题](https://github.com/qappleh/Web-Daily-Question/issues/376)
+讨论与参考答案：[第374题](https://github.com/qappleh/Web-Daily-Question/issues/377)
 
 ## 每日一题投稿：  
 
