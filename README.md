@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day375：说下浏览器的进程、线程模型？chrome浏览器有多少个进程？线程模型中每个线程都是干嘛的？(腾讯）
+> Day376：setTimeout为什么最小只能设置4ms，怎么实现一个0ms的setTimeout？(字节）
 
-讨论与参考答案：[第375题](https://github.com/qappleh/Web-Daily-Question/issues/378)
+讨论与参考答案：[第376题](https://github.com/qappleh/Web-Daily-Question/issues/379)
 
 ## 每日一题投稿：  
 
