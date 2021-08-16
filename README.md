@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day379：JS 如何实现一个 sleep/delay 函数？
+> Day380：实现一个randomString函数，返回一个数组， 该数组内有一千个字符串， 每串字符串为6位数0-9的随机验证码，不可重复?（字节）
 
-讨论与参考答案：[第379题](https://github.com/qappleh/Web-Daily-Question/issues/382)
+讨论与参考答案：[第380题](https://github.com/qappleh/Web-Daily-Question/issues/383)
 
 ## 每日一题投稿：  
 
