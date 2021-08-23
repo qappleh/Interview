@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day382：使用 TypeScript 语法将没有层级的扁平数据转换成树形结构的数据?（阿里）
+> Day383：请写出下列代码输出结果（obj 实例化，修改属性和重新实例化的指针问题）--字节跳动
 
-讨论与参考答案：[第382题](https://github.com/qappleh/Web-Daily-Question/issues/385)
+讨论与参考答案：[第383题](https://github.com/qappleh/Web-Daily-Question/issues/386)
 
 ## 每日一题投稿：  
 
