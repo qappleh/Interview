@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day387：如何实现一个 flatMap 函数 (字节跳动)
+> Day388：实现一个sum函数，接收一个arr，累加arr的项，只能使用add方法，该方法接收两个数，模拟异步请求后端返回一个相加后的值？
 
-讨论与参考答案：[第387题](https://github.com/qappleh/Web-Daily-Question/issues/390)
+讨论与参考答案：[第388题](https://github.com/qappleh/Web-Daily-Question/issues/391)
 
 ## 每日一题投稿：  
 
