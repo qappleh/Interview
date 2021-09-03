@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day389：实现二进制与十进制的互相转化的两个函数？
+> Day390：下面的代码有什么问题？怎么优化？
 
-讨论与参考答案：[第389题](https://github.com/qappleh/Web-Daily-Question/issues/392)
+讨论与参考答案：[第390题](https://github.com/qappleh/Web-Daily-Question/issues/393)
 
 ## 每日一题投稿：  
 
