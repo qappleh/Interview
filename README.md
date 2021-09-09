@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day393：请实现 find 函数，使下列的代码调用正确.（蚂蚁金服）
+> Day394：SSR 怎么做的，怎么保证同构？server 端的数据都 renderToString 了，为什么还要给到 client 端？
 
-讨论与参考答案：[第393题](https://github.com/qappleh/Web-Daily-Question/issues/396)
+讨论与参考答案：[第394题](https://github.com/qappleh/Web-Daily-Question/issues/397)
 
 ## 每日一题投稿：  
 
