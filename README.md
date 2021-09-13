@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day395：vue-router 中路由方法 pushState 和 replaceState 能否触发 popSate 事件？
+> Day396：为什么 vite、snowpack 可以比 webpack 快那么多？具体原理是什么？（阿里）
 
-讨论与参考答案：[第395题](https://github.com/qappleh/Web-Daily-Question/issues/398)
+讨论与参考答案：[第396题](https://github.com/qappleh/Web-Daily-Question/issues/399)
 
 ## 每日一题投稿：  
 
