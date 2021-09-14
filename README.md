@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day396：为什么 vite、snowpack 可以比 webpack 快那么多？具体原理是什么？（阿里）
+> Day397：手写 Vue.extend 实现?
 
-讨论与参考答案：[第396题](https://github.com/qappleh/Web-Daily-Question/issues/399)
+讨论与参考答案：[第397题](https://github.com/qappleh/Web-Daily-Question/issues/400)
 
 ## 每日一题投稿：  
 
