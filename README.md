@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day399: 如何找到数组中第一个没出现的最小正整数 怎么优化（字节）
+> Day400：判断括号字符串是否有效（小米）
 
-讨论与参考答案：[第399题](https://github.com/qappleh/Web-Daily-Question/issues/402)
+讨论与参考答案：[第400题](https://github.com/qappleh/Web-Daily-Question/issues/403)
 
 ## 每日一题投稿：  
 
