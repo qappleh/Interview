@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day400：判断括号字符串是否有效（小米）
+> Day401：实现一个数字加减法功能（腾讯）
 
-讨论与参考答案：[第400题](https://github.com/qappleh/Web-Daily-Question/issues/403)
+讨论与参考答案：[第401题](https://github.com/qappleh/Web-Daily-Question/issues/404)
 
 ## 每日一题投稿：  
 
