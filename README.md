@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day401：实现一个数字加减法功能（腾讯）
+> Day402: 实现一个render(str,parameter)方法，将str中的占位符用parameter填充?（腾讯)
 
-讨论与参考答案：[第401题](https://github.com/qappleh/Web-Daily-Question/issues/404)
+讨论与参考答案：[第402题](https://github.com/qappleh/Web-Daily-Question/issues/405)
 
 ## 每日一题投稿：  
 
