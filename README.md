@@ -6,9 +6,9 @@
 > 业精于勤，荒于嬉；行成于思，毁于随！学习从来都不是一蹴而就的事情，需要每天的点滴积累与沉淀，从而由量变引发质变！
 ## 今日一题：  
 
-> Day405: 顺时针打印矩阵（美团）
+> Day406: 写个函数，判断一个字符串是否为手机靓号？（腾讯）
 
-讨论与参考答案：[第405题](https://github.com/qappleh/Web-Daily-Question/issues/408)
+讨论与参考答案：[第406题](https://github.com/qappleh/Web-Daily-Question/issues/409)
 
 ## 每日一题投稿：  
 
